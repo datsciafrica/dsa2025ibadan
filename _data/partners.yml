@@ -1,0 +1,46 @@
+-
+  group: "Gold sponsors"
+  elements:
+#    - {name: "GeDIA", description: "GeDIA (Gender-Just Digital Innovation in Africa)", link: "https://gedia-network.org/", imageUrl: "GeDIA.png", width: "200px"}  
+    - {name: "arm", description: "arm", link: "https://www.arm.com", imageUrl: "arm.jpg", width: "150px"}
+#    - {name: "Habari Node", description: "Habari Node", link: "https://www.habari.co.tz/", imageUrl: "habari-node.png", width: "180px"}
+#    - {name: "Lacuna Fund", description: "Lacuna Fund", link: "https://lacunafund.org/", imageUrl: "lacuna-fund.png", width: "180px"}
+    - {name: "Edge Impulse", description: "Edge Impulse", link: "https://www.edgeimpulse.com/", imageUrl: "edge-impulse-logo.jpg", width: "180px"}
+    - {name: "Google Deepmind", description: "Google Deepmind", link: "https://www.deepmind.com/", imageUrl: "GoogleDeepmind.jpg", width: "200px"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "Google.jpg", width: "120px"}
+    - {name: "kenet", description: "Kenya Education Network Trust", link: "https://www.kenet.or.ke/", imageUrl: "kenet.jpg", width: "180px"}
+    - {name: "IDRC", description: "International Development Research Centre (IDRC)", link: "https://idrc-crdi.ca/en", imageUrl: "IDRC.svg", width: "180px"}
+    - {name: "AI4D", description: "Artificial Intelligence for Development", link: "https://africa.ai4d.ai/", imageUrl: "AI4D.jpg", width: "180px"}
+    - {name: "GIZ", description: "GIZ", link: "https://lacunafund.org/", imageUrl: "GIZ.jpg", width: "180px"}
+    - {name: "Fair Forward", description: "Fair Forward", link: "https://www.giz.de/expertise/html/61982.html", imageUrl: "fair_forward.jpg", width: "200px"}
+-
+  group: "Silver Sponsors"
+  elements:
+     - {name: "Lacuna Fund", description: "Lacuna Fund", link: "https://lacunafund.org/", imageUrl: "lacunafund.jpg", width: "180px"}
+     - {name: "Amini", description: "Amini", link: "https://www.amini.ai/", imageUrl: "Amini.jpg", width: "120px"}
+-
+  group: "Bronze Sponsors"
+  elements:
+     - {name: "Mozilla ", description: "Mozilla ", link: "https://www.mozilla.org/", imageUrl: "mozilla.jpg", width: "200px"} 
+
+-
+  group: "Partners"
+  elements:
+        
+#    - {name: "UR", description: "University of Rwanda", link: "https://ur.ac.rw/", imageUrl: "University-of-Rwanda-LOGO-B-_RV.png", width: "100px"}
+#    - {name: "Quantum", description: "Quantum Leap Africa", link: "https://quantumleapafrica.org/", imageUrl: "quantum_leap.jpg", width: "120px"}
+    - {name: "DeKut", description: "Dedan Kimathi University of Technology", link: "https://www.dkut.ac.ke", imageUrl: "DeKut.jpg", width: "160px"}
+    - {name: "GeJuSTA", description: "Gender Justice in STEM Research in Africa", link: "https://gejusta.net/", imageUrl: "GeJuSTA.jpg", width: "160px"}
+    - {name: "IEEE Signal Processing Society", description: "IEEE Signal Processing Society", link: "https://signalprocessingsociety.org/", imageUrl: "IEEE_Signal_Processing_Society.jpg", width: "120px"}
+    - {name: "Pulse Lab Kampala", description: "Pulse Lab Kampala", link: "https://www.unglobalpulse.org/lab/kampala/", imageUrl: "globalpulse.jpg", width: "250px"}
+    - {name: "PhysioNet", description: "IEEE Signal Processing Society", link: "https://physionet.org/", imageUrl: "PhysioNet.png", width: "120px"}
+    - {name: "NM-AUST", description: "Nelson Mandela African Institution of Science and Technology", link: "https://www.nm-aist.ac.tz", imageUrl: "NM-AUST.jpg", width: "140px"}
+    - {name: "MUK", description: "Makerere University", link: "https://www.mak.ac.ug", imageUrl: "Makerere.jpg", width: "140px"}
+    - {name: "Kabarak University", description: "Kabarak University", link: "https://kabarak.ac.ke/", imageUrl: "kabarak.jpg", width: "140px"}
+    
+
+-
+  group: "Affiliated Labs"
+  elements:
+    - {name: "AIR Lab", description: "Makerere - AI-LAB", link: "http://www.air.ug", imageUrl: "air.jpg", width: "120px"}
+    - {name: "DSAIL", description: "Data Systems and AI Lab", link: "https://dsail.csail.mit.edu/", imageUrl: "dsail.svg", width: "250px"}

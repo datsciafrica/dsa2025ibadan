@@ -1,0 +1,53 @@
+---
+id: 4
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Data Science Africa">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="keywords" content="{{ site.metaKeywords }}">
+    <!-- <meta name="google-site-verification" content="{{ site.siteVerification }}" /> -->
+    <link rel="canonical" href="{{ site.url }}">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/img/favicons/favicon-32x32.png">
+    <title>{% if page.title %}{{ page.title }} &bull; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/hero-menu/fonts/icomoon/style.css" />
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/hero-menu/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/schedule.css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/hero-menu/css/bootstrap.min.css" />
+    <!--        <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/hero-menu/css/owl.carousel.min.css">-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/hero-menu/css/style.css" />
+</head>
+
+<body>
+    <div class="container-fluid">
+        {% include nav.html %}
+        
+          {% include post.html isStaticPost=page.isStaticPost %}  
+     
+        {% include footer.html %}
+    </div>
+    
+
+    <script src="{{ site.baseurl }}/assets/hero-menu/js/jquery-3.3.1.min.js"></script>
+<!--    <script src="{{ site.baseurl }}/assets/hero-menu/js/popper.min.js"></script>-->
+    <script src="{{ site.baseurl }}/assets/hero-menu/js/bootstrap.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/hero-menu/js/jquery.sticky.js"></script>
+    <script src="{{ site.baseurl }}/assets/hero-menu/js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    
+    
+</body>
+
+</html>

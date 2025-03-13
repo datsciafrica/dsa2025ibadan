@@ -1,0 +1,381 @@
+# Instructions
+#
+# Schedule is organized in tracks (summer school, field work and workshop)
+# This represented by the tuple
+#  [session_id_ss, session_id_fw, ...]
+# Use:
+# - 404 --> to indicate skip/missing section in a track
+# - small-break --> coffee break
+# - large-break --> lunch break
+
+
+# Summer school on 03rd June 2024---------------------------
+-
+  date: "2024-06-03"
+  dateReadable: "June 03, 2024"
+  tracks:
+    - {title: "Summer School", color: "#006991"}
+    # - {title: "Field Work", color: "#000000"} program_overview
+  timeslots:
+#    - {
+#    	startTime: "09:00",
+#    	endTime: "09:20",
+#    	sessionIds: [introductions]
+#    }
+#    - {
+#    	startTime: "09:20",
+#    	endTime: "09:40",
+#    	sessionIds: [program_overview]
+#    }
+    - {
+    	startTime: "08:30",
+    	endTime: "09:30",
+    	sessionIds: [opening_remarks]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "10:30",
+        sessionIds: [data_visualisation]
+    }
+    - {
+     	startTime: "10:30",
+     	endTime: "11:00",
+     	sessionIds: [small-break]
+     }
+    - {
+    	startTime: "11:30",
+    	endTime: "13:00",
+    	sessionIds: [data_visualisation_2, open_source_LLMs]
+    }
+    - {
+     	startTime: "13:00",
+     	endTime: "14:00",
+     	sessionIds: [lunch-break]
+     }
+    - {
+        startTime: "14:00",
+        endTime: "16:00",
+        sessionIds: [math_foundations_ML, GeoAI4Good, NLP]
+    }
+    - {
+     	startTime: "16:00",
+     	endTime: "16:30",
+     	sessionIds: [small-break]
+     }
+    - {
+    	startTime: "16:30",
+    	endTime: "17:30",
+    	sessionIds: [math_foundations_ML, hackathon, NLP]
+    }
+    
+# Summer school on 4th June 2024------------------------------------------------------------
+-
+  date: "2024-06-04"
+  dateReadable: "June 04, 2024"
+  tracks:
+    - {title: "Summer School", color: "#D33"}
+    # - {title: "Field Work", color: "#000000"}
+  timeslots:
+#    - {
+#    	startTime: "08:00",
+#    	endTime: "09:00",
+#    	sessionIds: [opening_remarks]
+#    }
+    - {
+        startTime: "09:00",
+        endTime: "10:30",
+        sessionIds: [deep_generative_AI]
+    }
+    - {
+     	startTime: "10:30",
+     	endTime: "11:00",
+     	sessionIds: [small-break]
+     }
+    - {
+    	startTime: "11:00",
+    	endTime: "13:00",
+    	sessionIds: [deep_generative_AI_lab, Edge_AI, IP_and_Data_Conundrum]
+    }
+    - {
+     	startTime: "13:00",
+     	endTime: "14:00",
+     	sessionIds: [lunch-break]
+     }
+    - {
+        startTime: "14:00",
+        endTime: "16:00",
+        sessionIds: [ML_remote_sensing, Automatic_Speech_Technology, ML_Ops]
+    }
+    - {
+     	startTime: "16:00",
+     	endTime: "16:30",
+     	sessionIds: [small-break]
+     }
+    - {
+    	startTime: "16:30",
+    	endTime: "17:30",
+    	sessionIds: [ML_remote_sensing_lab, Automatic_Speech_Technology_lab, Graphcast]
+    }
+-
+  date: "2024-06-05"
+  dateReadable: "June 05, 2024"
+  tracks:
+    - {title: "Summer School", color: "#006991"}
+    # - {title: "Field Work", color: "#000000"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "10:30",
+        sessionIds: [NLP_and_LLMs, computer_vision_3, Hackathon_Challenge]
+    }
+    - {
+    	startTime: "10:30",
+    	endTime: "11:00",
+    	sessionIds: [small-break]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "13:00",
+        sessionIds: [NLP_and_LLMs_lab, computer_vision_3_lab, deep_learning]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [lunch-break]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "16:00",
+        sessionIds: [uncertainty_quantification, RAG_Agents, Edge_AI_Field_Work]
+    }
+#    - {
+#        startTime: "14:00",
+#        endTime: "16:00",
+#        sessionIds: [uncertainty_quantification]
+#    }
+#    - {
+#        startTime: "15:00",
+#        endTime: "16:00",
+#        sessionIds: [ML_model_deployment_embedded_models]
+#    }
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [small-break]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:30",
+        sessionIds: [Data_Science_for_Policy, RAG_Agents_lab, Edge_AI_Field_Work]
+    }
+#    - {
+#        startTime: "17:00",
+#        endTime: "18:00",
+#        sessionIds: [hackathon_launch]
+#    }
+    
+#-
+#  date: "2020-07-29"
+#  dateReadable: "July 29, 2020"
+#  tracks:
+#    - {title: "Summer School", color: "#006991"}
+#    # - {title: "Field Work", color: "#000000"}
+#  timeslots:
+#    - {
+#        startTime: "08:00",
+#        endTime: "09:00",
+#        sessionIds: [social_media_analysis]
+#    }
+#    - {
+#        startTime: "09:00",
+#        endTime: "11:00",
+#        sessionIds: [md4sg]
+#    }
+#    # - {
+#    #     startTime: "10:00",
+#    #     endTime: "11:00",
+#    #     sessionIds: [md4sg]
+#    # }
+#    - {
+#        startTime: "11:00",
+#        endTime: "12:00",
+#        sessionIds: [embeddings]
+#    }
+#    - {
+#        startTime: "12:00",
+#        endTime: "12:30",
+#        sessionIds: [small-break]
+#    }
+#    - {
+#        startTime: "12:30",
+#        endTime: "13:30",
+#        sessionIds: [embeddings_labs]
+#    }
+#    - {
+#        startTime: "13:30",
+#        endTime: "14:30",
+#        sessionIds: [r_talk]
+#    }
+#    - {
+#        startTime: "14:30",
+#        endTime: "15:30",
+#        sessionIds: [data_eng]
+#    }
+#    - {
+#        startTime: "16:00",
+#        endTime: "17:00",
+#        sessionIds: [ml_health_ethics]
+#    }
+#    - {
+#        startTime: "17:00",
+#        endTime: "17:15",
+#        sessionIds: [ss_conclusion]
+#    }
+#
+#    
+#
+## --------------------------------------------------
+## Workshop
+-
+  date: "2024-06-06"
+  dateReadable: "June 06, 2024 - Workshop Day I"
+  tracks:
+    - {title: "Workshop", color: "#D33"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "09:00",
+        sessionIds: [welcoming_remarks]
+    }
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [keynote_rose]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:30",
+        sessionIds: [health_11, health_12]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [small-break]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "12:30",
+    	sessionIds: [panel_11, panel_12]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [Hackathon_11, Properties_Of_Tio2]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [lunch-break]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [keynote_wanzare]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "16:00",
+        sessionIds: [panel_bigdata, modelling_for_climate]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [small-break]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [geospatial_and_digital_data, plant_disease]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "17:30",
+        sessionIds: [geospatial_and_digital_data_1, plant_disease_1]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:00",
+        sessionIds: [Intersession]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "19:00",
+        sessionIds: [book_launch]
+    }
+    
+-
+  date: "2024-06-07"
+  dateReadable: "June 07, 2024 - Workshop Day II"
+  tracks:
+    - {title: "Workshop", color: "#006991"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [keynote_Machuve]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "10:30",
+        sessionIds: [health_talk_21, responsible_AI_in_Africa]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [small-break]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "12:30",
+        sessionIds: [panel_language_data, pollution_and_environment]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [AI_for_finance, Tio2_And_Cdo]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [lunch-break]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [keynote_Dietterich]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "16:00",
+        sessionIds: [AI_for_weather, language_talks]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [small-break]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [Panel_AI_for_weather_forecasting, panel_language]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "17:30",
+        sessionIds: [neurology_and_Psychiatry, plant_diseases_22]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:00",
+        sessionIds: [closing]
+    }

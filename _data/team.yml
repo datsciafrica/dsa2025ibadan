@@ -1,0 +1,117 @@
+# Organizers
+#-
+#  id: 0
+#  name: "Prof. Charles"
+#  surname: "Ruranga"
+#  title: "General Chair"
+#  thumbnailUrl: CharlesRuranga.jpg
+#  team: true
+#  social:
+#    - {name: "social-twitter", link: "https://twitter.com/"}
+#    - {name: "link", link: "http://site.com/"}
+-
+  id: 0
+  name: "Ciira"
+  surname: "Maina"
+  title: "General Chair"
+  thumbnailUrl: ciira.svg
+  team: true
+  social:
+    - {name: "social-twitter", link: "https://twitter.com/CwaMaina"}
+    - {name: "link", link: "http://ciirawamaina.com/"}
+-
+  id: 1
+  name: "Joyce"
+  surname: "Nabende"
+  title: "Program Chair"
+  thumbnailUrl: NabendeJoyce.svg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/j_nabende"}
+    - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
+    
+-
+  id: 2
+  name: "Elaine"
+  surname: "Nsoesie"
+  company: "Boston University"
+  title: "Program Chair"
+  thumbnailUrl: ElaineNsoesie.svg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ensoesie"}
+    
+-
+  id: 2
+  name: "Isah Charles"
+  surname: "Saidu"
+  title: "Program Chair"
+  thumbnailUrl: Charles-Saidu.svg
+  team: true
+  social:
+    - {name: "social-twitter", link: "https://twitter.com/"}
+    - {name: "link", link: ""}
+#-
+#  id: 3
+#  name: "Martin"
+#  surname: "Mubangizi"
+#  title: "Workshop Chair"
+#  thumbnailUrl: martin.png
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
+#    - {name: "site", link: "http://site.com/"}
+#-
+#  id: 4
+#  name: "Engineer"
+#  surname: "Bainomugisha"
+#  title: "Field Work Chair"
+#  thumbnailUrl: engineer.png
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/iBaino"}
+#    - {name: "site", link: "http://site.com/"}
+#
+#-
+#  id: 5
+#  name: "Dr. Yaé Ulrich"
+#  surname: "Gaba"
+#  title: "Co Program Chair"
+#  thumbnailUrl: Dr_YUGaba.PNG
+#  team: true
+#  social:
+#    - {name: "social-twitter", link: "https://twitter.com/"}
+#    - {name: "link", link: "http://site.com/"}
+#
+#-
+#  id: 6
+#  name: "Ciira"
+#  surname: "Maina"
+#  title: "Sponsorships"
+#  thumbnailUrl: Ciira.jpeg
+#  team: true
+#  social:
+#    - {name: "social-twitter", link: "https://twitter.com/CwaMaina"}
+#    - {name: "link", link: "http://ciirawamaina.com/"}
+#-
+#  id: 7
+#  name: "Sebolai"
+#  surname: "Hanna"
+#  title: "Technical Support"
+#  thumbnailUrl: SebolaiHanna.jpg
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/"}
+#    - {name: "site", link: "http://site.com/"}
+
+
+#-
+#  id: 6
+#  name: "Solomon"
+#  surname: "Nsumba"
+#  title: "Local Assistance"
+#  thumbnailUrl: solomon.jpg
+#  team: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/snsumba"}
+#    - {name: "site", link: "http://site.com/"}

@@ -1,0 +1,45 @@
+<div class="container">
+                <h1>{{ site.aboutTitle }}</h1>
+                <div class="row mt-3">
+                    {% for about in site.aboutBlock %}
+                    {% assign colWidth = 12 | divided_by: forloop.length %}
+                    <div class="col-lg-4 col-sm-12 mb-5">
+                        <div class="tpn_card">
+                            <img src="{{ site.baseurl }}/assets/images/{{ about.image }}" class="w-100 mb-4 img img-fluid" />
+                            <h5>{{ about.title }}</h5>
+                            <p>
+                                {{ about.text | strip_html | truncate: 250 }}
+                            </p>
+                            <button type="button" class="btn tpn_btn" data-bs-toggle="modal" data-bs-target="#alpha{{ about.id }}">Read More</button>
+                            <!-- Modal -->
+<div class="modal fade" id="alpha{{ about.id }}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">{{ about.title }}</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        {{ about.text }}
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    {% endfor %}
+               
+            
+
+                    
+                    
+                    
+                    
+                </div>
+            </div>
