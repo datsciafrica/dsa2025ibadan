@@ -1,0 +1,78 @@
+---
+image: workshop.svg
+color: "#D33"
+layout: post
+title:  "Workshop"
+date:   2025-03-14 00:00:00
+isStaticPost: false
+---
+<!--
+This year’s DSA event will be in-person, starting on the 6<sup>th</sup> and 7<sup>th</sup> June hosted by the Dedan Kimathi University of Technology in Nyeri. We believe that the DSA community of both past and new participants can still benefit greatly from the event.-->
+
+<!--The DSA Nyeri event will consist of oral presentations of data science applications from academia and industry and interactive panel discussions.-->
+
+
+<p>We invite researchers to submit extended abstracts for the Data Science Africa (DSA) 2025 workshop, which will take place at the University of Ibadan, Nigeria, from June 5th to June 6th, 2025.</p>
+
+<h3>Submission Guidelines</h3>
+<p>Abstracts should address African challenges or methods relevant to solving problems in Africa. At least one African researcher must be a co-author, and accepted authors must be prepared to present their research at the workshop.</p>
+
+<p>We strongly encourage:</p>
+<ol>
+<li>Participants of the DSA Summer School to submit their research</li>
+<li>The participation of women and underrepresented communities in data science</li>
+</ol>
+
+<h3>Topics of Interest</h3>
+Submissions may include applied research, position papers, new methods, review/survey studies, and product demonstrations. Relevant topics include, but are not limited to:</p>
+<ol>
+<li>Machine Learning & Artificial Intelligence</li>
+<li>Data Mining & Robotics</li>
+<li>Natural Language Processing</li>
+<li>Applications in health, climate, agriculture, politics, and the arts</li>
+</ol>
+
+<h3>Submission Process</h3>
+<p>Use the provided abstract templates for Word here and Latex here. Abstracts should be submitted through the following OpenReview link: 
+Submit abstracts via OpenReview: https://openreview.net/group?id=datascienceafrica.org/DSA/2025</p>
+
+<p>Abstract Length: Maximum 3 pages, including references</p>
+
+<p>Submission Deadline: Sunday, April 25, 2025</p>
+<p>📌 Important: If possible, use your institutional email when creating your OpenReview account to avoid delays. New profiles with institutional emails are approved immediately, while non-institutional email approvals may take up to two weeks.</p>
+
+<p>For inquiries, contact us at  info@datascienceafrica.org.</p>
+
+<p>🔗 Stay tuned for additional updates here!</p>
+
+
+<!--The theme for the summer school is <b>Harnessing Data Science for Africa’s Socio-Economic Development</b>. We want to improve the community engagement in Data Science in Africa, by empowering communities and researchers to consider their role in responsible AI practices in Africa. We strongly encourage the participation of data science communities from across the continent.-->
+
+<!--We are also using this platform as a call for abstracts for the workshop. Abstracts should cover relevant topics including but not limited to:-->
+
+<!--
+* Data Science for the Sustainable Development Goals
+* Healthcare
+* Agriculture
+* Education 
+* Wildlife conservation
+* Disaster response
+* Geo-spatial modeling
+* Telecommunications data modeling
+* Economic monitoring
+* New data science and machine learning methods
+* Language modeling
+-->
+
+
+
+
+<!--The workshop is scheduled for 11<sup>th</sup> and 12<sup>th</sup> June. <b><a target="_blank" href="https://bit.ly/dsa2023workshop">Registration is open</a></b>-->
+
+<!--The deadline for submission of abstracts is March 31<sup>st</sup>, 2023-->
+
+
+__Additional info will be added here__
+
+Any questions?
+Email organizers at [info@datascienceafrica.org](mailto:info@datascienceafrica.org)
