@@ -2,7 +2,7 @@
 image: workshop.jpg
 color: "#D33"
 layout: post
-title:  "Workshop"
+title:  "DSA 2025 Workshop"
 date:   2025-03-14 00:00:00
 isStaticPost: false
 ---
