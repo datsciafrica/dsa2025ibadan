@@ -6,6 +6,11 @@ title:  "Summer School"
 date:   2025-03-14 00:00:00
 isStaticPost: false
 ---
+<!--
+This year’s DSA event will be in-person, starting on the 6<sup>th</sup> and 7<sup>th</sup> June hosted by the Dedan Kimathi University of Technology in Nyeri. We believe that the DSA community of both past and new participants can still benefit greatly from the event.-->
+
+<!--The DSA Nyeri event will consist of oral presentations of data science applications from academia and industry and interactive panel discussions.-->
+
                 <p>In the tradition of previous Data Science Africa events, a summer school on machine learning and data science will be held prior to the main workshop. The summer school is designed for graduate students, researchers, and professionals working with large-scale or unique datasets. This intensive program includes introductory and advanced lectures in data science and machine learning, alongside hands-on practical sessions. Participants will gain experience in data wrangling, data munging, and applying cutting-edge machine learning techniques to extract insights from data.
 
                 </p><p>The DSA 2025 Summer School will involve end-to-end tutorial sessions from professionals walking the participants through both theoretical and practical aspects of data science and machine learning.
