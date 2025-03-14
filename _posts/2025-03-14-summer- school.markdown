@@ -29,5 +29,5 @@ isStaticPost: false
 </p><p> Don’t miss this opportunity to enhance your skills and collaborate with top experts in AI and data science.
 
                     
-</p><p> 🔗 Registration Link: <a href="https://forms.gle/hKUtGhBBpP5GgUsw9" title="Workshop" target="_blank">https://forms.gle/hKUtGhBBpP5GgUsw9</a> 
+</p><p> 🔗 Registration Link: <a href="https://forms.gle/hKUtGhBBpP5GgUsw9" title="Workshop" target="summerschool">Summer School</a> 
 
