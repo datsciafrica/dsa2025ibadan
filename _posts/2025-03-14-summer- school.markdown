@@ -1,5 +1,5 @@
 ---
-image: summerschool.svg
+image: summerschool.jpg
 color: "#D33"
 layout: post
 title:  "Summer School"
