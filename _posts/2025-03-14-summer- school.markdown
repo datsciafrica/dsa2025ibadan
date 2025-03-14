@@ -24,11 +24,12 @@ isStaticPost: false
                     
 <p> 1️⃣. Download and run the test notebook – The notebook contains Python programming questions and hidden test cases.
 </p><p>  2️⃣. Complete the coding tasks in the notebook.
-</p><p>  3️⃣. <b><a target="_blank" href="/dsa2025ibadan/assets/DSA2024Test.zip" target="new">DOWNLOAD</a></b> the submission ZIP file – Clicking the download button in the last notebook cell generates a ZIP file named DSA2025Test_XXXXX.zip (where XXXXX is a unique identifier).
+</p><p>  3️⃣. <b><a href="https://drive.google.com/file/d/1Tu6NfcJznjXXD5iZChnnAMatlQahMfk8" target="_blank">DOWNLOAD</a></b> the submission ZIP file – Clicking the download button in the last notebook cell generates a ZIP file named DSA2025Test_XXXXX.zip (where XXXXX is a unique identifier).
 </p><p>  4️⃣. Fill out the summer school registration form – Enter the ZIP identification number along with other required information.
 
 </p><p><h4>📌 Application Deadline: March 31, 2025</h4>
 </p><p> Don’t miss this opportunity to enhance your skills and collaborate with top experts in AI and data science.
+
                     
-</p><p> 🔗 Registration Link: <a href="https://forms.gle/hKUtGhBBpP5GgUsw9" title="Workshop" target="new">https://forms.gle/hKUtGhBBpP5GgUsw9</a> 
+</p><p> 🔗 Registration Link: <a href="https://forms.gle/hKUtGhBBpP5GgUsw9" title="Workshop" target="_blank">https://forms.gle/hKUtGhBBpP5GgUsw9</a> 
 
