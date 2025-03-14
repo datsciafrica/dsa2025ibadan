@@ -19,7 +19,7 @@ isStaticPost: false
 </ol>
 
 <h3>Topics of Interest</h3>
-Submissions may include applied research, position papers, new methods, review/survey studies, and product demonstrations. Relevant topics include, but are not limited to:</p>
+<p>Submissions may include applied research, position papers, new methods, review/survey studies, and product demonstrations. Relevant topics include, but are not limited to:</p>
 <ol>
 <li>Machine Learning & Artificial Intelligence</li>
 <li>Data Mining & Robotics</li>
