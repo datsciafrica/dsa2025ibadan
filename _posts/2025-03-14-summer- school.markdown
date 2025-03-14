@@ -2,7 +2,7 @@
 image: summerschool.jpg
 color: "#D33"
 layout: post
-title:  "Summer School"
+title:  "DSA 2025 Summer School"
 date:   2025-03-14 00:00:00
 isStaticPost: false
 ---
