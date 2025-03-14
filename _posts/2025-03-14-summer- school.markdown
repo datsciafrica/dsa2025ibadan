@@ -7,7 +7,7 @@ date:   2025-03-14 00:00:00
 isStaticPost: false
 ---
 
-<h1>REGISTRATION - DSA 2025 Summer School</h1>
+<h2>REGISTRATION - DSA 2025 Summer School</h2>
 
 <p>In the tradition of previous Data Science Africa events, a summer school on machine learning and data science will be held prior to the main workshop. The summer school is designed for graduate students, researchers, and professionals working with large-scale or unique datasets. This intensive program includes introductory and advanced lectures in data science and machine learning, alongside hands-on practical sessions. Participants will gain experience in data wrangling, data munging, and applying cutting-edge machine learning techniques to extract insights from data.
 
