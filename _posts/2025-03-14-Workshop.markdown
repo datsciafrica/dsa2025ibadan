@@ -1,5 +1,5 @@
 ---
-image: workshop.svg
+image: workshop.jpg
 color: "#D33"
 layout: post
 title:  "Workshop"
@@ -33,7 +33,8 @@ Submit abstracts via OpenReview: <a href="https://openreview.net/group?id=datas
 
 <p>Abstract Length: Maximum 3 pages, including references</p>
 
-<p>Submission Deadline: Sunday, April 25, 2025</p>
+<h4>Submission Deadline: Sunday, April 25, 2025</h4>
+  
 <p>📌 Important: If possible, use your institutional email when creating your OpenReview account to avoid delays. New profiles with institutional emails are approved immediately, while non-institutional email approvals may take up to two weeks.</p>
 
 <p>For inquiries, contact us at  info@datascienceafrica.org.</p>
