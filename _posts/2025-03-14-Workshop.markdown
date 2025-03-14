@@ -28,8 +28,8 @@ Submissions may include applied research, position papers, new methods, review/s
 </ol>
 
 <h3>Submission Process</h3>
-<p>Use the provided abstract templates for Word <a href="#">here</a> and Latex <a href="#">here</a> . Abstracts should be submitted through the following OpenReview link: 
-Submit abstracts via OpenReview: <a href="https://openreview.net/group?id=datascienceafrica.org/DSA/2025">https://openreview.net/group?id=datascienceafrica.org/DSA/2025</a></p>
+<p>Use the provided abstract templates for Word <a href="https://drive.google.com/drive/folders/1ECaeXwM2yvsjLrt2MtQZsoKdiaE_zOlg" target="new">here</a> and Latex <a href="https://drive.google.com/drive/folders/18UiwJjpjL-pYdCGcGvcJaWsiBvbOq-44" target="new">here</a> . Abstracts should be submitted through the following OpenReview link: 
+Submit abstracts via OpenReview: <a href="https://openreview.net/group?id=datascienceafrica.org/DSA/2025" target="new">https://openreview.net/group?id=datascienceafrica.org/DSA/2025</a></p>
 
 <p>Abstract Length: Maximum 3 pages, including references</p>
 
