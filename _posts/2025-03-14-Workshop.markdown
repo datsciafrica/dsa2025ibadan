@@ -7,7 +7,6 @@ date:   2025-03-14 00:00:00
 isStaticPost: false
 ---
 
-<h1>DSA 2025 Workshop</h1>
 <p>We invite researchers to submit extended abstracts for the Data Science Africa (DSA) 2025 workshop, which will take place at the University of Ibadan, Nigeria, from June 5th to June 6th, 2025.</p>
 
 <h3>Submission Guidelines</h3>
