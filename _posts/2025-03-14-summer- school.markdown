@@ -7,7 +7,7 @@ date:   2025-03-14 00:00:00
 isStaticPost: false
 ---
 
-<h1>DSA 2025 Summer School</h1>
+<h1>REGISTRATION - DSA 2025 Summer School</h1>
 
 <p>In the tradition of previous Data Science Africa events, a summer school on machine learning and data science will be held prior to the main workshop. The summer school is designed for graduate students, researchers, and professionals working with large-scale or unique datasets. This intensive program includes introductory and advanced lectures in data science and machine learning, alongside hands-on practical sessions. Participants will gain experience in data wrangling, data munging, and applying cutting-edge machine learning techniques to extract insights from data.
 
@@ -22,15 +22,13 @@ isStaticPost: false
 
 <p><h3>Registration Process</h3></p>
                     
-<p> 1️⃣ Download and run the test notebook – The notebook contains Python programming questions and hidden test cases.
-</p><p>  2️⃣ Complete the coding tasks in the notebook.
-</p><p>  3️⃣ <b><a target="_blank" href="/dsa2025ibadan/assets/DSA2024Test.zip">DOWNLOAD</a></b> the submission ZIP file – Clicking the download button in the last notebook cell generates a ZIP file named DSA2025Test_XXXXX.zip (where XXXXX is a unique identifier).
-</p><p>  4️⃣ Fill out the summer school registration form – Enter the ZIP identification number along with other required information.
-</p>&nbsp;<p>
-</p><p>📌 Application Deadline: March 31, 2025
-</p>&nbsp;<p>
-                    
+<p> 1️⃣. Download and run the test notebook – The notebook contains Python programming questions and hidden test cases.
+</p><p>  2️⃣. Complete the coding tasks in the notebook.
+</p><p>  3️⃣. <b><a target="_blank" href="/dsa2025ibadan/assets/DSA2024Test.zip" targe="_new">DOWNLOAD</a></b> the submission ZIP file – Clicking the download button in the last notebook cell generates a ZIP file named DSA2025Test_XXXXX.zip (where XXXXX is a unique identifier).
+</p><p>  4️⃣. Fill out the summer school registration form – Enter the ZIP identification number along with other required information.
+
+</p><p><h4>📌 Application Deadline: March 31, 2025</h4>
 </p><p> Don’t miss this opportunity to enhance your skills and collaborate with top experts in AI and data science.
                     
-</p><p> 🔗 Registration Link: <a href="https://forms.gle/Pweet1pRi8gaqot7A" title="Workshop" target="_blank">https://forms.gle/Pweet1pRi8gaqot7A</a> 
+</p><p> 🔗 Registration Link: <a href="https://forms.gle/hKUtGhBBpP5GgUsw9" title="Workshop" target="_blank">https://forms.gle/hKUtGhBBpP5GgUsw9</a> 
 
