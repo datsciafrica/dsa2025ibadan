@@ -28,7 +28,7 @@ isStaticPost: false
 </ol>
 
 <h3>Submission Process</h3>
-<p>Use the provided abstract templates for Word <a href="https://drive.google.com/drive/folders/1ECaeXwM2yvsjLrt2MtQZsoKdiaE_zOlg" target="new">here</a> and Latex <a href="https://drive.google.com/drive/folders/18UiwJjpjL-pYdCGcGvcJaWsiBvbOq-44" target="new">here</a> . Abstracts should be submitted through the following OpenReview link: 
+<p>Use the provided abstract templates for Word <a href="https://drive.google.com/drive/folders/1n3ECY0lakjV8JIfKq5FnhrkoWUfB1vH4" target="new">here</a> and Latex <a href="https://drive.google.com/drive/folders/1-4gnfWnkHU4B4gWKxFLlG82j1hhZYmZK" target="new">here</a> . Abstracts should be submitted through the following OpenReview link: 
 Submit abstracts via OpenReview: <a href="https://openreview.net/group?id=datascienceafrica.org/DSA/2025" target="new">https://openreview.net</a></p>
 
 <p>Abstract Length: Maximum 3 pages, including references</p>
