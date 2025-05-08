@@ -69,41 +69,6 @@
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
-#-
-#  id: billy
-#  name: "Billy"
-#  surname: "Okal"
-#  company: "NVIDIA"
-#  title: "Senior Research Engineer"
-#  bio: ""
-#  thumbnailUrl: billy_okal.png
-#  ribbon:
-#    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
-#    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/jadalawa"}
-#-
-#  id: damon
-#  name: "Damon"
-#  surname: "Civin"
-#  company: "Facebook"
-#  title: "Head of Data Science, Growth"
-#  bio: ""
-#  thumbnailUrl: damon.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/DCivin"}
-#
-#-
-#  id: neema
-#  name: "Neema"
-#  surname: "Mduma"
-#  company: "Nelson Mandela African Institute of Science and Technology"
-#  title: "Lecturer"
-#  bio: ""
-#  thumbnailUrl: neema.jpg
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/nakadori"}
-#
 -
   id: olayinka
   name: "Professor"
@@ -155,10 +120,10 @@
     - {abbr: "DBA", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
   id: thiga
-  name: "Moses"
+  name: "Dr. Moses"
   surname: "Thiga"
-  title: "Lecturer"
-  company: "Kabarak University, Kenya"
+  title: "ICT Director"
+  company: "Egerton University, Kenya"
   thumbnailUrl: MosesThiga.svg
   ribbon:
     - {abbr: "PC", title: "DSA 2023 Program
