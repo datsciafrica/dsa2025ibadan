@@ -91,20 +91,7 @@
   thumbnailUrl: FemiAzeez.jpg
   ribbon:
     - {abbr: "DBA", title: "Head of Data Science", url: "https://datascienceafrica.org"}
-    
--
-  id: samuel
-  name: "Samuel"
-  surname: "Rutunda"
-  company: "Digital Muganda"
-  title: "CTO"
-  thumbnailUrl: person.svg
-  bio: ""
-  social:
-    - {name: "twitter", link: "https://twitter.com/j_nabende"}
-    - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
-  ribbon:
-    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+
 -
   id: ezekiel
   name: "Ezekiel"
@@ -158,3 +145,14 @@ Chair", url: "https://datascienceafrica.org"}
   ribbon:
     - {abbr: "PC", title: "DSA 2023 Program
 Chair", url: "https://datascienceafrica.org"}
+    
+-
+  id: samuel
+  name: "Samuel"
+  surname: "Rutunda"
+  title: "CTO"
+  company: "Digital Muganda"
+  thumbnailUrl: person.svg
+  bio: ""
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
