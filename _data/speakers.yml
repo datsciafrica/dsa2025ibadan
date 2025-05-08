@@ -88,17 +88,17 @@
   company: "Pastel Africa"
   title: "Head of Data Science"
   bio: "Oluwafemi Azeez is a seasoned Machine Learning Research Engineer with an MS in Electrical and Computer Engineering from Carnegie Mellon University. Specializing in Deep Reinforcement Learning, Statistical Techniques in Robotics, Natural Language Processing, and Computer Vision, Oluwafemi has led data science teams in deploying advanced ML models across multiple sectors. His leadership has driven projects to successful outcomes, notably contributing to workshops at the esteemed NeurIPS conference."
-  thumbnailUrl: person.svg
+  thumbnailUrl: FemiAzeez.jpg
   ribbon:
     - {abbr: "DBA", title: "Head of Data Science", url: "https://datascienceafrica.org"}
     
 -
-  id: joyce
-  name: "Joyce"
-  surname: "Nabende"
-  company: "Makerere University"
-  title: "Lecturer & Head of AI Lab"
-  thumbnailUrl: NabendeJoyce.svg
+  id: samuel
+  name: "Samuel"
+  surname: "Rutunda"
+  company: "Digital Muganda"
+  title: "CTO"
+  thumbnailUrl: person.svg
   bio: ""
   social:
     - {name: "twitter", link: "https://twitter.com/j_nabende"}
@@ -106,25 +106,55 @@
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
-  id: morine
-  name: "Morine"
-  surname: "Amutorine"
-  title: "Data Associate"
-  company: "UN Global Pulse, Kampala"
-  thumbnailUrl: morine.svg
-  bio: "Morine is passionate about analysing, visualising and communicating data. Her work has been dominated by social data including social media data (conducting real-time content analysis and knowledge translation research), public radio (analysing public perceptions on topics that inform the work of the SDGs) and Google search data (to reveal knowledge gaps and detect disparities in health information availability). She particularly enjoys creating data-driven visuals to go with her research findings. She is currently a data associate at UN Global Pulse based in Kampala."
+  id: ezekiel
+  name: "Ezekiel"
+  surname: "Adebayo Ogundepo"
+  title: "Fellow"
+  company: "Global Partnership for Sustainable Development Data "
+  thumbnailUrl: Ezekiel-Ogundepo.jpg
+  bio: "Ezekiel Adebayo Ogundepo is a dynamic data science leader who blends technical expertise with a genuine passion for creating a positive impact. With a strong academic background in statistics and mathematical sciences, his career has been defined by innovative work in data analytics and research software development. Through pivotal roles in government, industry, and global health initiatives, he has designed data systems and predictive models that address critical issues in climate and health, truly demonstrating the power of data science in driving sustainable development. In addition to his professional achievements, Ezekiel’s contributions to open-source projects and community leadership highlight his steadfast commitment to openness, education, and FAIR data practices. His journey from scholar to internationally recognised data scientist and educator inspires many. With each project and initiative, he furthers the cause of leveraging data for good, exemplifying excellence in both professional and academic realms while advancing the frontiers of data science in Africa and beyond."
   social:
     - {name: "twitter", link: "https://twitter.com/theamutorine"}
     - {name: "site", link: "http://site.com/"}
   ribbon:
     - {abbr: "DBA", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
-  id: thiga
-  name: "Dr. Moses"
-  surname: "Thiga"
-  title: "ICT Director"
-  company: "Egerton University, Kenya"
-  thumbnailUrl: MosesThiga.svg
+  id: girmaw 
+  name: "Dr."
+  surname: "Girmaw Abebe Tadesse"
+  title: "Principal Research Scientist and Manager"
+  company: "Microsoft AI for Good Lab"
+  thumbnailUrl: GirmawAbebe.jpg
+  ribbon:
+    - {abbr: "PC", title: "DSA 2023 Program
+Chair", url: "https://datascienceafrica.org"}
+-
+  id: thas 
+  name: "Robert"
+  surname: "Thas John"
+  title: "Chief Data Officer"
+  company: "Enterfive Ltd"
+  thumbnailUrl: Robert_John_Thas.jpeg
+  ribbon:
+    - {abbr: "PC", title: "DSA 2023 Program
+Chair", url: "https://datascienceafrica.org"}
+-
+  id: girmaw 
+  name: "Dr."
+  surname: "Girmaw Abebe Tadesse"
+  title: "Principal Research Scientist and Manager"
+  company: "Microsoft AI for Good Lab"
+  thumbnailUrl: GirmawAbebe.jpg
+  ribbon:
+    - {abbr: "PC", title: "DSA 2023 Program
+Chair", url: "https://datascienceafrica.org"}
+-
+  id: girmaw 
+  name: "Dr."
+  surname: "Girmaw Abebe Tadesse"
+  title: "Principal Research Scientist and Manager"
+  company: "Microsoft AI for Good Lab"
+  thumbnailUrl: GirmawAbebe.jpg
   ribbon:
     - {abbr: "PC", title: "DSA 2023 Program
 Chair", url: "https://datascienceafrica.org"}
