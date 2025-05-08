@@ -116,99 +116,101 @@
   surname: "Girmaw Abebe Tadesse"
   title: "Principal Research Scientist and Manager"
   company: "Microsoft AI for Good Lab"
+  bio: ""
   thumbnailUrl: GirmawAbebe.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
-    - {abbr: "8", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "5", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 -
   id: thas 
   name: "Robert"
   surname: "Thas John"
   title: "Chief Data Officer"
   company: "Enterfive Ltd"
-  thumbnailUrl: Robert_John_Thas.jpeg
+  bio: ""
+  thumbnailUrl: GirmawAbebe.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
-    - {abbr: "9", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "5", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 -
   id: tayo 
   name: "Tayo"
   surname: "Bamiduro"
   title: ""
   company: "Max.ng"
-  thumbnailUrl: person.svg
+  bio: ""
+  thumbnailUrl: GirmawAbebe.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
-    - {abbr: "10", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "5", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 -
   id: olubayo 
   name: "Dr."
   surname: "Olubayo Adekanmbi"
   title: ""
   company: "EqualyzAI"
-  thumbnailUrl: person.svg
+  bio: ""
+  thumbnailUrl: GirmawAbebe.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
-    - {abbr: "11", title: "DSA 2025", url: "https://datascienceafrica.org"}  
+    - {abbr: "5", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 -
   id: samuel
   name: "Samuel"
   surname: "Rutunda"
   title: "CTO"
   company: "Digital Muganda"
-  thumbnailUrl: person.svg
   bio: ""
+  thumbnailUrl: GirmawAbebe.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
-    - {abbr: "12", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "5", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 -
   id: steve
   name: "Steve"
   surname: "Asemota"
   title: ""
   company: "Access Bank"
-  thumbnailUrl: person.svg
+ bio: ""
+  thumbnailUrl: GirmawAbebe.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
-    - {abbr: "13", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "5", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 -
   id: victor 
   name: "Dr."
   surname: "Victor Odumuyiwa"
   title: ""
   company: "University of Lagos"
-  thumbnailUrl: person.svg
+bio: ""
+  thumbnailUrl: GirmawAbebe.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
-    - {abbr: "14", title: "DSA 2025", url: "https://datascienceafrica.org"}  
+    - {abbr: "5", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 -
   id: dina
   name: "Dr."
   surname: "Dina Machuve"
   title: "Co-Founder and CTO"
   company: "DevData Analytics"
-  thumbnailUrl: person.svg
-  bio: ""
+ bio: ""
+  thumbnailUrl: GirmawAbebe.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
-    - {abbr: "15", title: "DSA 2025", url: "https://datascienceafrica.org"}
--
-  id: steve
-  name: "Steve"
-  surname: "Asemota"
-  title: ""
-  company: "Access Bank"
-  thumbnailUrl: person.svg
-  ribbon:
-    - {abbr: "13", title: "DSA 2025", url: "https://datascienceafrica.org"}
--
-  id: victor 
-  name: "Dr."
-  surname: "Victor Odumuyiwa"
-  title: ""
-  company: "University of Lagos"
-  thumbnailUrl: person.svg
-  ribbon:
-    - {abbr: "14", title: "DSA 2025", url: "https://datascienceafrica.org"}  
--
-  id: dina
-  name: "Dr."
-  surname: "Dina Machuve"
-  title: "Co-Founder and CTO"
-  company: "DevData Analytics"
-  thumbnailUrl: person.svg
-  bio: ""
-  ribbon:
-    - {abbr: "15", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "5", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
