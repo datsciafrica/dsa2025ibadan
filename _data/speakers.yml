@@ -67,6 +67,12 @@ She founded the Realztech Institute, upskilling over 15,000 professionals global
   title: "Head of Data Science"
   bio: "Oluwafemi Azeez is a seasoned Machine Learning Research Engineer with a MS in Electrical and Computer Engineering from Carnegie Mellon University. Specializing in Deep Reinforcement Learning, Statistical Techniques in Robotics, Natural Language Processing, and Computer Vision, Oluwafemi has led data science teams in deploying advanced ML models across multiple sectors. His leadership has driven projects to successful outcomes, notably contributing to workshops at the esteemed NeurIPS conference."
   thumbnailUrl: person.svg
+    social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
+  ribbon:
+    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
+-
 
   id: Olayinka
   name: "Professor"
@@ -75,6 +81,12 @@ She founded the Realztech Institute, upskilling over 15,000 professionals global
   title: "Dean, Lagos Business School,"
   bio: "Professor Olayinka David-West is the Dean of Lagos Business School and has expertise in business management and technology. Her career spans IT and financial services, significantly contributing to academia and business practices. She is passionate about digital transformation and inclusive finance and has held critical positions at LBS, driving it to international accreditations. Her thought leadership focuses on technology's transformative impact on business and strategy. Since 2015, she has led the Sustainable and Inclusive Digital and Financial Services (SIDFS) initiative. She is a Certified Cyber Risk Governance expert, CGEIT, and CISA, and a member of the Fintech Association of Nigeria."
   thumbnailUrl: YinkaDavidWest.JPG
+    social:
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
+  ribbon:
+    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
+-
 
   id: Comfort_Ilevbare
   name: "Comfort"
