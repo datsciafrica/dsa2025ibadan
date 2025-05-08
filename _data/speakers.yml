@@ -124,6 +124,7 @@
   title: "Chief Data Officer"
   company: "Enterfive Ltd"
   thumbnailUrl: Robert_John_Thas.jpeg
+  bio: "Robert is a seasoned technologist with over two decades of experience in databases and enterprise software development. He specializes in everything data-related on the Google Cloud Platform (GCP), encompassing data engineering, visualization, and Machine Learning (ML). Robert's career journey includes impactful roles as a software engineer, developing mission-critical systems for finance, telecommunications, and utilities/energy vending sectors. This diverse background has honed his problem-solving skills and deepened his understanding of technology's transformative potential. Beyond his professional work, Robert is a passionate advocate for the developer community. He shares his expertise through speaking engagements, organizing meetups, hosting code labs, and publishing tutorials. His articles on platforms like Hackster.io and Medium and his blog provide valuable insights into data visualization, ML, and GCP. He also serves as a mentor at the Google for Startups Africa Accelerator program and co-organizes the GDG Cloud community in Kaduna, Nigeria, fostering growth and collaboration among developers."
   ribbon:
     - {abbr: "PC", title: "DSA 2023 Program Chair", url: "https://datascienceafrica.org"}
 
@@ -181,11 +182,11 @@
   thumbnailUrl: person.svg
 -
   id: ernest
-  name: "Ernest"
+  name: "Dr. Ernest"
   surname: "Mwebabze"
   company: "Sunbird AI"
   title: "Director"
-  bio: ""
+  bio: "Ernest Mwebaze has had a dual career in academia and in industry. He possesses over 10 years of teach- ing experience in computer science and machine learning. While at Makerere University he co-found- ed the Makerere University Artificial Intelligence research lab leading it to prominence in the field of practical implementation and deployment of artificial intelligence solutions. In industry he has worked at the Google AI research lab in Ghana and the UN Pulse lab in Kampala where he focused on practical applications of artificial intelligence to tackle developmental challenges in agriculture, utility estimation and different focus areas of the SDGs. He is passionate about using artificial intelligence to improve society particularly in developing parts of the world. He is currently the executive director of Sunbird AI."
   thumbnailUrl: earnest.svg
 -
   id: segun
@@ -228,22 +229,100 @@
   bio: ""
   thumbnailUrl: person.svg
 -
-  id: thas
-  name: "Robert"
-  surname: "Thas John"
-  company: "Enterfive Ltd"
-  title: "Chief Data Officer"
-  bio: "Robert is a seasoned technologist with over two decades of experience in databases and enterprise software development. He specializes in everything data-related on the Google Cloud Platform (GCP), encompassing data engineering, visualization, and Machine Learning (ML). Robert's career journey includes impactful roles as a software engineer, developing mission-critical systems for finance, telecommunications, and utilities/energy vending sectors. This diverse background has honed his problem-solving skills and deepened his understanding of technology's transformative potential. Beyond his professional work, Robert is a passionate advocate for the developer community. He shares his expertise through speaking engagements, organizing meetups, hosting code labs, and publishing tutorials. His articles on platforms like Hackster.io and Medium and his blog provide valuable insights into data visualization, ML, and GCP. He also serves as a mentor at the Google for Startups Africa Accelerator program and co-organizes the GDG Cloud community in Kaduna, Nigeria, fostering growth and collaboration among developers."
+  id: marivate
+  name: "Vukosi"
+  surname: "Marivate"
+  company: "University of Pretoria"
+  title: "ABSA Chair of Data Science, Professor Department of Computer Science"
+  bio: ""
   thumbnailUrl: person.svg
 -
-  id: mwebaze
-  name: "Dr Ernest"
-  surname: "Mwebaze"
-  company: "Sunbird AI"
+  id: oladeji
+  name: "Blessing"
+  surname: "Oladeji"
+  company: "Octave Analytics"
+  title: "CEO"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: r_adams
+  name: "Rachel"
+  surname: "Adams"
+  company: ""
   title: ""
-  bio: "Ernest Mwebaze has had a dual career in academia and in industry. He possesses over 10 years of teach- ing experience in computer science and machine learning. While at Makerere University he co-found- ed the Makerere University Artificial Intelligence research lab leading it to prominence in the field of practical implementation and deployment of artificial intelligence solutions. In industry he has worked at the Google AI research lab in Ghana and the UN Pulse lab in Kampala where he focused on practical applications of artificial intelligence to tackle developmental challenges in agriculture, utility estimation and different focus areas of the SDGs. He is passionate about using artificial intelligence to improve society particularly in developing parts of the world. He is currently the executive director of Sunbird AI."
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: adeleke
+  name: "Fola"
+  surname: "Adeleke"
+  company: "Global Center on AI Governance"
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: koyejo
+  name: "Sanmi"
+  surname: "Koyejo"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg  
+-
+  id: ajala
+  name: "Dr Bunmi"
+  surname: "Ajala"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg  
+-
+  id: gaye
+  name: "Dr Bamba"
+  surname: "Gaye"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: osofisan
+  name: "Prof. Adenike"
+  surname: "Osofisan"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: lawrence
+  name: "Neil"
+  surname: "Lawrence"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg  
+-
+  id: gekov
+  name: "George"
+  surname: "Gekov"
+  company: "ARM"
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: ajibade
+  name: "AbdulQudus Ajibade"
+  surname: "Ajibade"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: akinjiola
+  name: "Dr. Kolawole"
+  surname: "Akinjiola"
+  company: ""
+  title: ""
+  bio: ""
   thumbnailUrl: person.svg
 
-
-  
 
