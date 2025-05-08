@@ -31,7 +31,7 @@
     - {name: "twitter", link: "https://twitter.com/CwaMaina"}
     - {name: "site", link: "http://ciirawamaina.com/"}
   ribbon:
-    - {abbr: "1", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
+    - {abbr: "001", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
 -
   id: adeleke
   name: "Dr"
@@ -44,20 +44,20 @@
     - {name: "twitter", link: "https://twitter.com/dmachuve"}
     - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
-    - {abbr: "2", title: "Program Chair", url: "https://datascienceafrica.org"}
+    - {abbr: "002", title: "Program Chair", url: "https://datascienceafrica.org"}
 -
   id: quinn
   name: "Dr"
   surname: "John Quinn"
   company: "Sunbird AI / Google Research"
   title: "Director of Research"
-  bio: "John Quinn is Director of Research at Sunbird AI in Uganda, and a Staff Software Engineer at Google Research. He was previously technical lead for Africa projects at United Nations Global Pulse, and Senior Lecturer in Computer Science at Makerere University in Uganda. He has worked on a number of large scale AI projects across the African continent, in the fields of remote sensing, speech and language, agriculture and health. He holds a BA in computer science from the University of Cambridge (2000), and a PhD in machine learning from the University of Edinburgh (2007)."
+   bio: "John Quinn is Director of Research at Sunbird AI in Uganda, and a Staff Software Engineer at Google Research. He was previously the technical lead for Africa projects at United Nations Global Pulse, and Senior Lecturer in Computer Science at Makerere University in Uganda. He has worked on a number of large scale AI projects across the African continent, in the fields of remote sensing, speech and language, agriculture and health. He holds a BA in computer science from the University of Cambridge (2000), and a PhD in machine learning from the University of Edinburgh (2007)."
   thumbnailUrl: JohnQuinn.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/dmachuve"}
     - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
-    - {abbr: "3", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+    - {abbr: "003", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
   id: ojo
   name: "Dr"
@@ -70,7 +70,7 @@
     - {name: "twitter", link: "https://twitter.com/dmachuve"}
     - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
-    - {abbr: "4", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+    - {abbr: "004", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
   id: olayinka
   name: "Professor"
@@ -214,3 +214,12 @@ bio: ""
     - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
     - {abbr: "5", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+-
+    id: thiga
+  name: "Moses"
+  surname: "Thiga"
+  title: "Lecturer"
+  company: "Kabarak University, Kenya"
+  thumbnailUrl: MosesThiga.svg
+  ribbon:
+    - {abbr: "PC", title: "DSA 2023 Program Chair", url: "https://datascienceafrica.org"}
