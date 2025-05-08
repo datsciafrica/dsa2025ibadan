@@ -31,7 +31,7 @@
     - {name: "twitter", link: "https://twitter.com/CwaMaina"}
     - {name: "site", link: "http://ciirawamaina.com/"}
   ribbon:
-    - {abbr: "DBM", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
+    - {abbr: "1", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
 -
   id: adeleke
   name: "Dr"
@@ -44,7 +44,7 @@
     - {name: "twitter", link: "https://twitter.com/dmachuve"}
     - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
-    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
+    - {abbr: "2", title: "Program Chair", url: "https://datascienceafrica.org"}
 -
   id: quinn
   name: "Dr"
@@ -56,7 +56,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/earnest"}
   ribbon:
-    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+    - {abbr: "3", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
   id: ojo
   name: "Dr"
@@ -68,7 +68,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
   ribbon:
-    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+    - {abbr: "4", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
   id: olayinka
   name: "Professor"
@@ -80,7 +80,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/lawrend"}
   ribbon:
-    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+    - {abbr: "5", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 -
   id: oluwafemi
   name: "Oluwafemi"
@@ -90,8 +90,7 @@
   bio: "Oluwafemi Azeez is a seasoned Machine Learning Research Engineer with an MS in Electrical and Computer Engineering from Carnegie Mellon University. Specializing in Deep Reinforcement Learning, Statistical Techniques in Robotics, Natural Language Processing, and Computer Vision, Oluwafemi has led data science teams in deploying advanced ML models across multiple sectors. His leadership has driven projects to successful outcomes, notably contributing to workshops at the esteemed NeurIPS conference."
   thumbnailUrl: FemiAzeez.jpg
   ribbon:
-    -- {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
-
+    -- {abbr: "6", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: ezekiel
   name: "Ezekiel"
@@ -104,7 +103,7 @@
     - {name: "twitter", link: "https://twitter.com/theamutorine"}
     - {name: "site", link: "http://site.com/"}
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "7", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: girmaw 
   name: "Dr."
@@ -113,7 +112,7 @@
   company: "Microsoft AI for Good Lab"
   thumbnailUrl: GirmawAbebe.jpg
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "8", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: thas 
   name: "Robert"
@@ -122,7 +121,7 @@
   company: "Enterfive Ltd"
   thumbnailUrl: Robert_John_Thas.jpeg
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "9", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: tayo 
   name: "Tayo"
@@ -131,7 +130,7 @@
   company: "Max.ng"
   thumbnailUrl: person.svg
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "10", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: olubayo 
   name: "Dr."
@@ -140,7 +139,7 @@
   company: "EqualyzAI"
   thumbnailUrl: person.svg
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}  
+    - {abbr: "11", title: "DSA 2025", url: "https://datascienceafrica.org"}  
 -
   id: samuel
   name: "Samuel"
@@ -150,7 +149,7 @@
   thumbnailUrl: person.svg
   bio: ""
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "12", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: steve
   name: "Steve"
@@ -159,7 +158,7 @@
   company: "Access Bank"
   thumbnailUrl: person.svg
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "13", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: victor 
   name: "Dr."
@@ -168,8 +167,7 @@
   company: "University of Lagos"
   thumbnailUrl: person.svg
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
-    
+    - {abbr: "14", title: "DSA 2025", url: "https://datascienceafrica.org"}  
 -
   id: dina
   name: "Dr."
@@ -179,7 +177,7 @@
   thumbnailUrl: person.svg
   bio: ""
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "15", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: segun
   name: "Dr."
@@ -188,7 +186,7 @@
   company: "Bowen University, Iwo"
   thumbnailUrl: person.svg
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "16", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: tejumade 
   name: "Tejumade"
@@ -197,8 +195,7 @@
   company: "CISPA Helmholtz Center for Information Security"
   thumbnailUrl: person.svg
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
-    
+    - {abbr: "17", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: dang
   name: "John"
@@ -208,7 +205,7 @@
   thumbnailUrl: person.svg
   bio: ""
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "18", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: saheed
   name: "Saheed"
@@ -218,7 +215,7 @@
   thumbnailUrl: person.svg
   bio: ""
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "19", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: elaine
   name: "Elaine"
@@ -228,7 +225,7 @@
   thumbnailUrl: person.svg
   bio: ""
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "20", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: olusola
   name: "Dr"
@@ -238,7 +235,7 @@
   thumbnailUrl: person.svg
   bio: ""
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "21", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: mwebaze
   name: "Dr"
@@ -248,7 +245,7 @@
   thumbnailUrl: person.svg
   bio: ""
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "22", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: vukosi
   name: "Vukosi"
@@ -258,7 +255,7 @@
   thumbnailUrl: person.svg
   bio: ""
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+    - {abbr: "23", title: "DSA 2025", url: "https://datascienceafrica.org"}
 -
   id: oladeji
   name: "Blessing"
@@ -268,5 +265,4 @@
   thumbnailUrl: person.svg
   bio: ""
   ribbon:
-    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
-
+    - {abbr: "24", title: "DSA 2025", url: "https://datascienceafrica.org"}
