@@ -234,8 +234,39 @@
   name: "Dr"
   surname: "Olusola Ayoola"
   title: ""
-  company: "Cohere.ai"
+  company: "RAIN"
   thumbnailUrl: person.svg
   bio: ""
   ribbon:
     - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+-
+  id: mwebaze
+  name: "Dr"
+  surname: "Ernest Mwebaze"
+  title: ""
+  company: ""
+  thumbnailUrl: person.svg
+  bio: ""
+  ribbon:
+    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+-
+  id: vukosi
+  name: "Vukosi"
+  surname: "Marivate"
+  title: "ABSA Chair of Data Science, Professor"
+  company: "Department of Computer Science, University of Pretoria"
+  thumbnailUrl: person.svg
+  bio: ""
+  ribbon:
+    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+-
+  id: oladeji
+  name: "Blessing"
+  surname: "Oladeji"
+  title: "CEO"
+  company: "Octave Analytics"
+  thumbnailUrl: person.svg
+  bio: ""
+  ribbon:
+    - {abbr: "PC", title: "DSA 2025", url: "https://datascienceafrica.org"}
+
