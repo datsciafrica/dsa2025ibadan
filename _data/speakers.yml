@@ -184,3 +184,31 @@
   bio: ""
   ribbon:
     - {abbr: "15", title: "DSA 2025", url: "https://datascienceafrica.org"}
+-
+  id: steve
+  name: "Steve"
+  surname: "Asemota"
+  title: ""
+  company: "Access Bank"
+  thumbnailUrl: person.svg
+  ribbon:
+    - {abbr: "13", title: "DSA 2025", url: "https://datascienceafrica.org"}
+-
+  id: victor 
+  name: "Dr."
+  surname: "Victor Odumuyiwa"
+  title: ""
+  company: "University of Lagos"
+  thumbnailUrl: person.svg
+  ribbon:
+    - {abbr: "14", title: "DSA 2025", url: "https://datascienceafrica.org"}  
+-
+  id: dina
+  name: "Dr."
+  surname: "Dina Machuve"
+  title: "Co-Founder and CTO"
+  company: "DevData Analytics"
+  thumbnailUrl: person.svg
+  bio: ""
+  ribbon:
+    - {abbr: "15", title: "DSA 2025", url: "https://datascienceafrica.org"}
