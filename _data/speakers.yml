@@ -1,24 +1,3 @@
-#-
-#  id: assey
-#  name: "Theophil"
-#  surname: "Assey"
-#  title: "General Chair"
-#  company: "IAA"
-#  thumbnailUrl: TheophilAssey.jpg 
-##  social:
-##    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
-#  ribbon:
-#    - {abbr: "GC", title: "General Chair", url: "https://datascienceafrica.org"}
-#-
-#  id: thiga
-#  name: "Moses"
-#  surname: "Thiga"
-#  title: "Lecturer"
-#  company: "Kabarak University, Kenya"
-#  thumbnailUrl: MosesThiga.svg
-#  ribbon:
-#    - {abbr: "PC", title: "DSA 2023 Program
-#Chair", url: "https://datascienceafrica.org"}
 -
   id: ciira
   name: "Ciira"
