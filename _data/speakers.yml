@@ -139,22 +139,22 @@ Chair", url: "https://datascienceafrica.org"}
     - {abbr: "PC", title: "DSA 2023 Program
 Chair", url: "https://datascienceafrica.org"}
 -
-  id: girmaw 
-  name: "Dr."
-  surname: "Girmaw Abebe Tadesse"
-  title: "Principal Research Scientist and Manager"
-  company: "Microsoft AI for Good Lab"
-  thumbnailUrl: GirmawAbebe.jpg
+  id: tayo 
+  name: "Tayo"
+  surname: "Bamiduro"
+  title: ""
+  company: "Max.ng"
+  thumbnailUrl: person.svg
   ribbon:
     - {abbr: "PC", title: "DSA 2023 Program
 Chair", url: "https://datascienceafrica.org"}
 -
-  id: girmaw 
+  id: olubayo 
   name: "Dr."
-  surname: "Girmaw Abebe Tadesse"
-  title: "Principal Research Scientist and Manager"
-  company: "Microsoft AI for Good Lab"
-  thumbnailUrl: GirmawAbebe.jpg
+  surname: "Olubayo Adekanmbi"
+  title: ""
+  company: "EqualyzAI"
+  thumbnailUrl: person.svg
   ribbon:
     - {abbr: "PC", title: "DSA 2023 Program
 Chair", url: "https://datascienceafrica.org"}
