@@ -111,7 +111,7 @@
   company: "Pan-Atlantic University"
   title: "Dean Lagos Business School"
   bio: "Professor Olayinka David-West is the Dean of Lagos Business School and has expertise in business management and technology. Her career spans IT and financial services, significantly contributing to academia and business practices. She is passionate about digital transformation and inclusive finance and has held critical positions at LBS, driving it to international accreditations. Her thought leadership focuses on technology's transformative impact on business and strategy. Since 2015, she has led the Sustainable and Inclusive Digital and Financial Services (SIDFS) initiative. She is a Certified Cyber Risk Governance expert, CGEIT, and CISA, and a member of the Fintech Association of Nigeria."
-  thumbnailUrl: neil.svg
+  thumbnailUrl: YinkaDavidWest.JPG
   social:
     - {name: "twitter", link: "https://twitter.com/lawrend"}
   ribbon:
@@ -122,8 +122,8 @@
   surname: "Azeez"
   company: "Pastel Africa"
   title: "Head of Data Science"
-  bio: "Oluwafemi Azeez is a seasoned Machine Learning Research Engineer with a MS in Electrical and Computer Engineering from Carnegie Mellon University. Specializing in Deep Reinforcement Learning, Statistical Techniques in Robotics, Natural Language Processing, and Computer Vision, Oluwafemi has led data science teams in deploying advanced ML models across multiple sectors. His leadership has driven projects to successful outcomes, notably contributing to workshops at the esteemed NeurIPS conference."
-  thumbnailUrl: person.svg
+  bio: "Oluwafemi Azeez is a seasoned Machine Learning Research Engineer with an MS in Electrical and Computer Engineering from Carnegie Mellon University. Specializing in Deep Reinforcement Learning, Statistical Techniques in Robotics, Natural Language Processing, and Computer Vision, Oluwafemi has led data science teams in deploying advanced ML models across multiple sectors. His leadership has driven projects to successful outcomes, notably contributing to workshops at the esteemed NeurIPS conference."
+  thumbnailUrl: YinkaDavidWest.JPG
   ribbon:
     - {abbr: "DBA", title: "Head of Data Science", url: "https://datascienceafrica.org"}
 #-
