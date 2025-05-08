@@ -33,38 +33,38 @@
   ribbon:
     - {abbr: "DBM", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
 -
-  id: dina
-  name: "Dina"
-  surname: "Machuve"
-  company: "Lacuna Fund Steering Committee"
-  title: "Member"
+  id: adeleke
+  name: "Dr."
+  surname: "Adeleke O. Bankole"
+  company: "University of Cambridge UK"
+  title: "Research Software Engineer, Institute of Computing for Climate Science (ICCS)"
   bio: ""
-  thumbnailUrl: dina.svg
+  thumbnailUrl: DrAdelekeO.Bankole.jpeg
   social:
     - {name: "twitter", link: "https://twitter.com/dmachuve"}
     - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
   ribbon:
     - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
 -
-  id: ernest
-  name: "Ernest"
-  surname: "Mwebabze"
-  company: "Sunbird AI"
-  title: "Director"
-  bio: ""
-  thumbnailUrl: earnest.svg
+  id: quinn
+  name: "Dr."
+  surname: "John Quinn"
+  company: "Sunbird AI / Google Research"
+  title: "Director of Research"
+  bio: "John Quinn is Director of Research at Sunbird AI in Uganda, and a Staff Software Engineer at Google Research. He was previously the technical lead for Africa projects at United Nations Global Pulse, and Senior Lecturer in Computer Science at Makerere University in Uganda. He has worked on a number of large scale AI projects across the African continent, in the fields of remote sensing, speech and language, agriculture and health. He holds a BA in computer science from the University of Cambridge (2000), and a PhD in machine learning from the University of Edinburgh (2007)."
+  thumbnailUrl: JohnQuinn.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/earnest"}
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
-  id: elaine
-  name: "Elaine"
-  surname: "Nsoesie"
-  company: "Boston University"
-  title: "Assistant Professor"
-  bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.She leads a team of computational social scientists, public health experts and computer scientists at Boston University's Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri Institute for Computing. She was born and raised in Cameroon."
-  thumbnailUrl: ElaineNsoesie.svg
+  id: ojo
+  name: "Dr"
+  surname: "Success Ojo"
+  company: "GMIND.AI"
+  title: "CEO/Co-founder"
+  bio: "Success Ojo is a visionary AI leader committed to inclusive and ethical innovation. As the co-founder and CEO of Gmind AI, she is building a world-class AI platform from Africa designed to bridge language and accessibility gaps. Her platform features an AI-powered multilingual learning assistant that offers personalized tutoring and Pedagogical content generation. With 15 years of experience in AI and educational technology, Dr. Ojo is renowned for promoting inclusive innovation. Under her leadership, Gmind AI developed a smart assistant for automating education workflows and enhancing learning outcomes, earning the Excellence in Artificial Intelligence Award at Art of Technology Lagos 6.0. She founded the Realztech Institute, upskilling over 15,000 professionals globally, and co-founded Gotocourse, which serves over 2,000 institutions with virtual learning solutions. Recognized twice as IT Personality of the Year in North America and Nigeria, Dr. Ojo's honors include the Women of Worth Award (Houston, 2025), recognition from the Texas House of Representatives, and listing among Africa’s Top 100 Women in Tech (2025). As a mentor and advocate, she champions responsible AI and equitable innovation."
+  thumbnailUrl: success_ojo2.jpeg
   social:
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
   ribbon:
@@ -105,25 +105,25 @@
 #    - {name: "twitter", link: "https://twitter.com/nakadori"}
 #
 -
-  id: neil
-  name: "Neil"
-  surname: "Lawrence"
-  company: "University of Cambridge"
-  title: "Professor"
-  bio: "DeepMind Professor of Machine Learning at the University of Cambridge"
-  thumbnailUrl: neil.svg
+  id: olayinka
+  name: "Professor"
+  surname: "Olayinka David-West"
+  company: "Pan-Atlantic University"
+  title: "Dean Lagos Business School"
+  bio: "Professor Olayinka David-West is the Dean of Lagos Business School and has expertise in business management and technology. Her career spans IT and financial services, significantly contributing to academia and business practices. She is passionate about digital transformation and inclusive finance and has held critical positions at LBS, driving it to international accreditations. Her thought leadership focuses on technology's transformative impact on business and strategy. Since 2015, she has led the Sustainable and Inclusive Digital and Financial Services (SIDFS) initiative. She is a Certified Cyber Risk Governance expert, CGEIT, and CISA, and a member of the Fintech Association of Nigeria."
+  thumbnailUrl: YinkaDavidWest.JPG
   social:
     - {name: "twitter", link: "https://twitter.com/lawrend"}
   ribbon:
     - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 -
-  id: johnquinn
-  name: "John"
-  surname: "Quinn"
-  company: "Google AI"
-  title: "Research Scientist"
-  bio: ""
-  thumbnailUrl: johnquinn.svg
+  id: oluwafemi
+  name: "Oluwafemi"
+  surname: "Azeez"
+  company: "Pastel Africa"
+  title: "Head of Data Science"
+  bio: "Oluwafemi Azeez is a seasoned Machine Learning Research Engineer with an MS in Electrical and Computer Engineering from Carnegie Mellon University. Specializing in Deep Reinforcement Learning, Statistical Techniques in Robotics, Natural Language Processing, and Computer Vision, Oluwafemi has led data science teams in deploying advanced ML models across multiple sectors. His leadership has driven projects to successful outcomes, notably contributing to workshops at the esteemed NeurIPS conference."
+  thumbnailUrl: FemiAzeez.jpg
   ribbon:
     - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 #-
@@ -135,13 +135,13 @@
 #  bio: ""
 #  thumbnailUrl: mike.jpg
 -
-  id: joyce
-  name: "Joyce"
-  surname: "Nabende"
-  company: "Makerere University"
-  title: "Lecturer & Head of AI Lab"
-  thumbnailUrl: NabendeJoyce.svg
-  bio: ""
+  id: ezekiel
+  name: "Ezekiel"
+  surname: "Adebayo Ogundepo"
+  title: "Fellow"
+  company: "Global Partnership for Sustainable Development Data "
+  thumbnailUrl: Ezekiel-Ogundepo.jpg
+  bio: "Ezekiel Adebayo Ogundepo is a dynamic data science leader who blends technical expertise with a genuine passion for creating a positive impact. With a strong academic background in statistics and mathematical sciences, his career has been defined by innovative work in data analytics and research software development. Through pivotal roles in government, industry, and global health initiatives, he has designed data systems and predictive models that address critical issues in climate and health, truly demonstrating the power of data science in driving sustainable development. In addition to his professional achievements, Ezekiel’s contributions to open-source projects and community leadership highlight his steadfast commitment to openness, education, and FAIR data practices. His journey from scholar to internationally recognised data scientist and educator inspires many. With each project and initiative, he furthers the cause of leveraging data for good, exemplifying excellence in both professional and academic realms while advancing the frontiers of data science in Africa and beyond."
   social:
     - {name: "twitter", link: "https://twitter.com/j_nabende"}
     - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
