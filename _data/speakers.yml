@@ -134,9 +134,25 @@
   surname: "Bamiduro"
   title: ""
   company: "Max.ng"
-  thumbnailUrl: AdeTayo.png
+  thumbnailUrl: AdeTayo.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/bitsclarybits"}
+-
+  id: ernest
+  name: "Dr. Ernest"
+  surname: "Mwebabze"
+  company: "Sunbird AI"
+  title: "Director"
+  bio: "Ernest Mwebaze has had a dual career in academia and in industry. He possesses over 10 years of teach- ing experience in computer science and machine learning. While at Makerere University he co-found- ed the Makerere University Artificial Intelligence research lab leading it to prominence in the field of practical implementation and deployment of artificial intelligence solutions. In industry he has worked at the Google AI research lab in Ghana and the UN Pulse lab in Kampala where he focused on practical applications of artificial intelligence to tackle developmental challenges in agriculture, utility estimation and different focus areas of the SDGs. He is passionate about using artificial intelligence to improve society particularly in developing parts of the world. He is currently the executive director of Sunbird AI."
+  thumbnailUrl: earnest.svg
+-
+  id: elaine
+  name: "Elaine"
+  surname: "Nsoesie"
+  company: "Boston University"
+  title: "Assistant Professor"
+  bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.She leads a team of computational social scientists, public health experts and computer scientists at Boston University's Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri Institute for Computing. She was born and raised in Cameroon."
+  thumbnailUrl: ElaineNsoesie.svg
 -
   id: olubayo 
   name: "Dr."
@@ -181,14 +197,6 @@
   company: "DevData Analytics"
   thumbnailUrl: person.svg
 -
-  id: ernest
-  name: "Dr. Ernest"
-  surname: "Mwebabze"
-  company: "Sunbird AI"
-  title: "Director"
-  bio: "Ernest Mwebaze has had a dual career in academia and in industry. He possesses over 10 years of teach- ing experience in computer science and machine learning. While at Makerere University he co-found- ed the Makerere University Artificial Intelligence research lab leading it to prominence in the field of practical implementation and deployment of artificial intelligence solutions. In industry he has worked at the Google AI research lab in Ghana and the UN Pulse lab in Kampala where he focused on practical applications of artificial intelligence to tackle developmental challenges in agriculture, utility estimation and different focus areas of the SDGs. He is passionate about using artificial intelligence to improve society particularly in developing parts of the world. He is currently the executive director of Sunbird AI."
-  thumbnailUrl: earnest.svg
--
   id: segun
   name: "Dr."
   surname: "Segun Adebayo"
@@ -212,14 +220,6 @@
   title: ""
   bio: ""
   thumbnailUrl: person.svg
--
-  id: elaine
-  name: "Elaine"
-  surname: "Nsoesie"
-  company: "Boston University"
-  title: "Assistant Professor"
-  bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.She leads a team of computational social scientists, public health experts and computer scientists at Boston University's Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri Institute for Computing. She was born and raised in Cameroon."
-  thumbnailUrl: ElaineNsoesie.svg
 -
   id: ayoola
   name: "Dr Olusola"
