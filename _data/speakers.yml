@@ -33,13 +33,13 @@
   ribbon:
     - {abbr: "DBM", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
 -
-  id: dina
-  name: "Dina"
-  surname: "Machuve"
-  company: "Lacuna Fund Steering Committee"
+  id: quinn
+  name: "quinn"
+  surname: "Dr John Quinn"
+  company: "Sunbird AI / Google Research"
   title: "Member"
   bio: ""
-  thumbnailUrl: dina.svg
+  thumbnailUrl: JohnQuinn.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/dmachuve"}
     - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
