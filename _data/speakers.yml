@@ -156,3 +156,34 @@ Chair", url: "https://datascienceafrica.org"}
   bio: ""
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: steve
+  name: "Steve"
+  surname: "Asemota"
+  title: ""
+  company: "Access Bank"
+  thumbnailUrl: person.svg
+  ribbon:
+    - {abbr: "PC", title: "DSA 2023 Program
+Chair", url: "https://datascienceafrica.org"}
+-
+  id: victor 
+  name: "Dr."
+  surname: "Victor Odumuyiwa"
+  title: ""
+  company: "University of Lagos"
+  thumbnailUrl: person.svg
+  ribbon:
+    - {abbr: "PC", title: "DSA 2023 Program
+Chair", url: "https://datascienceafrica.org"}
+    
+-
+  id: dina
+  name: "Dr."
+  surname: "Dina Machuve"
+  title: "Co-Founder and CTO"
+  company: "DevData Analytics"
+  thumbnailUrl: person.svg
+  bio: ""
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
