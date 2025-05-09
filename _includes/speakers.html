@@ -9,7 +9,13 @@
                             <img src="{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}" class="w-100 mb-4 img img-fluid" />
                             <h5>{{ speaker.name }} <span>{{ speaker.surname }}</span></h5>
                             <p>
+                                {{ speaker.title }}
+                            </p>
+                          <p>
                                 {{ speaker.company }}
+                            </p>
+                          <p>
+                                {{ speaker.bio }}
                             </p>
                         </div>
                     </div>
