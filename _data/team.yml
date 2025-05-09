@@ -1,117 +1,143 @@
-# Organizers
 #-
-#  id: 0
-#  name: "Prof. Charles"
-#  surname: "Ruranga"
+#  id: assey
+#  name: "Theophil"
+#  surname: "Assey"
 #  title: "General Chair"
-#  thumbnailUrl: CharlesRuranga.jpg
-#  team: true
-#  social:
-#    - {name: "social-twitter", link: "https://twitter.com/"}
-#    - {name: "link", link: "http://site.com/"}
+#  company: "IAA"
+#  thumbnailUrl: TheophilAssey.jpg 
+##  social:
+##    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
+#  ribbon:
+#    - {abbr: "GC", title: "General Chair", url: "https://datascienceafrica.org"}
+#-
+#  id: thiga
+#  name: "Moses"
+#  surname: "Thiga"
+#  title: "Lecturer"
+#  company: "Kabarak University, Kenya"
+#  thumbnailUrl: MosesThiga.svg
+#  ribbon:
+#    - {abbr: "PC", title: "DSA 2023 Program
+#Chair", url: "https://datascienceafrica.org"}
 -
-  id: 0
+  id: ciira
   name: "Ciira"
   surname: "Maina"
-  title: "General Chair"
+  company: "Dedan Kimathi University of Technology"
+  title: "Senior Lecturer and Director, Center for Data Science and AI"
+  bio: ""
   thumbnailUrl: ciira.svg
-  team: true
   social:
-    - {name: "social-twitter", link: "https://twitter.com/CwaMaina"}
-    - {name: "link", link: "http://ciirawamaina.com/"}
+    - {name: "twitter", link: "https://twitter.com/CwaMaina"}
+    - {name: "site", link: "http://ciirawamaina.com/"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
 -
-  id: 1
-  name: "Joyce"
-  surname: "Nabende"
-  title: "Program Chair"
-  thumbnailUrl: NabendeJoyce.svg
-  team: true
+  id: dina
+  name: "Dina"
+  surname: "Machuve"
+  company: "Lacuna Fund Steering Committee"
+  title: "Member"
+  bio: ""
+  thumbnailUrl: dina.svg
   social:
-    - {name: "twitter", link: "https://twitter.com/j_nabende"}
-    - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
-    
+    - {name: "twitter", link: "https://twitter.com/dmachuve"}
+    - {name: "site", link: "https://twiga2.github.io/dmachuve/"}
+  ribbon:
+    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
 -
-  id: 2
+  id: ernest
+  name: "Ernest"
+  surname: "Mwebabze"
+  company: "Sunbird AI"
+  title: "Director"
+  bio: ""
+  thumbnailUrl: earnest.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/earnest"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: elaine
   name: "Elaine"
   surname: "Nsoesie"
   company: "Boston University"
-  title: "Program Chair"
+  title: "Assistant Professor"
+  bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.She leads a team of computational social scientists, public health experts and computer scientists at Boston University's Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri Institute for Computing. She was born and raised in Cameroon."
   thumbnailUrl: ElaineNsoesie.svg
-  team: true
   social:
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
-    
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
-  id: 2
-  name: "Isah Charles"
-  surname: "Saidu"
-  title: "Program Chair"
-  thumbnailUrl: Charles-Saidu.svg
-  team: true
+  id: billy
+  name: "Billy"
+  surname: "Okal"
+  company: "NVIDIA"
+  title: "Senior Research Engineer"
+  bio: ""
+  thumbnailUrl: billy_okal.png
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
   social:
-    - {name: "social-twitter", link: "https://twitter.com/"}
-    - {name: "link", link: ""}
-#-
-#  id: 3
-#  name: "Martin"
-#  surname: "Mubangizi"
-#  title: "Workshop Chair"
-#  thumbnailUrl: martin.png
-#  team: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
-#    - {name: "site", link: "http://site.com/"}
-#-
-#  id: 4
-#  name: "Engineer"
-#  surname: "Bainomugisha"
-#  title: "Field Work Chair"
-#  thumbnailUrl: engineer.png
-#  team: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/iBaino"}
-#    - {name: "site", link: "http://site.com/"}
-#
-#-
-#  id: 5
-#  name: "Dr. Yaé Ulrich"
-#  surname: "Gaba"
-#  title: "Co Program Chair"
-#  thumbnailUrl: Dr_YUGaba.PNG
-#  team: true
-#  social:
-#    - {name: "social-twitter", link: "https://twitter.com/"}
-#    - {name: "link", link: "http://site.com/"}
-#
-#-
-#  id: 6
-#  name: "Ciira"
-#  surname: "Maina"
-#  title: "Sponsorships"
-#  thumbnailUrl: Ciira.jpeg
-#  team: true
-#  social:
-#    - {name: "social-twitter", link: "https://twitter.com/CwaMaina"}
-#    - {name: "link", link: "http://ciirawamaina.com/"}
-#-
-#  id: 7
-#  name: "Sebolai"
-#  surname: "Hanna"
-#  title: "Technical Support"
-#  thumbnailUrl: SebolaiHanna.jpg
-#  team: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/"}
-#    - {name: "site", link: "http://site.com/"}
+   - {name: "twitter", link: "https://twitter.com/jadalawa"}
+-
+  id: neil
+  name: "Neil"
+  surname: "Lawrence"
+  company: "University of Cambridge"
+  title: "Professor"
+  bio: "DeepMind Professor of Machine Learning at the University of Cambridge"
+  thumbnailUrl: neil.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/lawrend"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+-
+  id: johnquinn
+  name: "John"
+  surname: "Quinn"
+  company: "Google AI"
+  title: "Research Scientist"
+  bio: ""
+  thumbnailUrl: johnquinn.svg
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+-
+  id: joyce
+  name: "Joyce"
+  surname: "Nabende"
+  company: "Makerere University"
+  title: "Lecturer & Head of AI Lab"
+  thumbnailUrl: NabendeJoyce.svg
+  bio: ""
+  social:
+    - {name: "twitter", link: "https://twitter.com/j_nabende"}
+    - {name: "site", link: "https://sites.google.com/view/jnabende/home?authuser=0"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: morine
+  name: "Morine"
+  surname: "Amutorine"
+  title: "Data Associate"
+  company: "UN Global Pulse, Kampala"
+  thumbnailUrl: morine.svg
+  bio: "Morine is passionate about analysing, visualising and communicating data. Her work has been dominated by social data including social media data (conducting real-time content analysis and knowledge translation research), public radio (analysing public perceptions on topics that inform the work of the SDGs) and Google search data (to reveal knowledge gaps and detect disparities in health information availability). She particularly enjoys creating data-driven visuals to go with her research findings. She is currently a data associate at UN Global Pulse based in Kampala."
+  social:
+    - {name: "twitter", link: "https://twitter.com/theamutorine"}
+    - {name: "site", link: "http://site.com/"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+-
+  id: thiga
+  name: "Moses"
+  surname: "Thiga"
+  title: "ICT Director"
+  company: "Egerton University, Kenya"
+  thumbnailUrl: MosesThiga.svg
+  ribbon:
+    - {abbr: "PC", title: "DSA 2023 Program
+Chair", url: "https://datascienceafrica.org"}
 
-
-#-
-#  id: 6
-#  name: "Solomon"
-#  surname: "Nsumba"
-#  title: "Local Assistance"
-#  thumbnailUrl: solomon.jpg
-#  team: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/snsumba"}
-#    - {name: "site", link: "http://site.com/"}
