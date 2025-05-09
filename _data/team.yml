@@ -60,20 +60,6 @@
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
-  id: billy
-  name: "Billy"
-  surname: "Okal"
-  company: "NVIDIA"
-  title: "Senior Research Engineer"
-  bio: ""
-  thumbnailUrl: billy_okal.png
-  team: true
-  ribbon:
-    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
-    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
-  social:
-   - {name: "twitter", link: "https://twitter.com/jadalawa"}
--
   id: neil
   name: "Neil"
   surname: "Lawrence"
