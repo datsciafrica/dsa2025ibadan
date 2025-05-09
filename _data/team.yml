@@ -14,33 +14,30 @@
   name: "Ahmed "
   surname: "Olanrewaju"
   title: "General Chair"
-  thumbnailUrl: ciira.svg
+  company: "University of Ibadan"
+  thumbnailUrl: AhmedOlanrewaju.svg
   team: true
 -
-  id: 0
-  name: "Ahmed "
-  surname: "Olanrewaju"
-  title: "General Chair"
-  thumbnailUrl: ciira.svg
+  id: 1
+  name: "Lillian"
+  surname: "Wanzare"
+  company: "Maseno University"
+  title: "Program Chair"
+  bio: ""
+  thumbnailUrl: LilianWanzare.svg
   team: true
 -
-  id: 0
-  name: "Ahmed "
-  surname: "Olanrewaju"
-  title: "General Chair"
-  thumbnailUrl: ciira.svg
+  id: 2
+  name: "Nakasi"
+  surname: "Rose"
+  title: "Program Chair"
+  company: "Makerere AI Lab"
+  thumbnailUrl: rose.svg
   team: true
 -
-  id: 0
-  name: "Ahmed "
-  surname: "Olanrewaju"
-  title: "General Chair"
-  thumbnailUrl: ciira.svg
-  team: true
--
-  id: 0
-  name: "Ahmed "
-  surname: "Olanrewaju"
-  title: "General Chair"
-  thumbnailUrl: ciira.svg
+  id: 3
+  name: "Oluwatomisin"
+  surname: "Dada "
+  title: "Program Chair"
+  thumbnailUrl: person.svg
   team: true
