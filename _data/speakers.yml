@@ -196,7 +196,7 @@
   surname: "Victor Odumuyiwa"
   title: ""
   company: "University of Lagos"
-  thumbnailUrl: person.svg
+  thumbnailUrl: victor-odumuyiwa.jpg
 -
   id: dina
   name: "Dr."
@@ -219,7 +219,7 @@
   company: "CISPA Helmholtz Center for Information Security"
   title: "Co-founder of AI Saturdays Lagos & Doctoral Researcher"
   bio: "Tejumade Afonja is a passionate researcher and community leader committed to advancing ethical and inclusive AI. She is a doctoral researcher at the CISPA Helmholtz Center for Information Security and Saarland University, where her work focuses on privacy-preserving synthetic tabular data generation and evaluation. With an academic background that bridges Mechanical Engineering and Computer Science, Tejumade brings a multidisciplinary lens to solving complex challenges at the intersection of AI and data privacy. Beyond her research, Tejumade is a catalyst for grassroots AI education and empowerment. She is the co-founder of AI Saturdays Lagos, a volunteer-driven initiative that provides free, high-quality training in data science, machine learning, and deep learning to African youth—democratizing access to knowledge and opening doors to global opportunities."
-  thumbnailUrl: person.svg
+  thumbnailUrl: tejumade1.jpg
 -
   id: dang
   name: "John"
@@ -251,7 +251,7 @@
   company: "Octave Analytics"
   title: "CEO"
   bio: ""
-  thumbnailUrl: person.svg
+  thumbnailUrl: blessing_oladeji.jpg
 -
   id: r_adams
   name: "Rachel"
@@ -347,7 +347,7 @@
   company: "Olabisi Onabanjo University, Nigeria"
   title: "AI researcher, and senior faculty member"
   bio: "Dr. Sakinat Folorunso is a computer scientist, AI researcher, and senior faculty member at Olabisi Onabanjo University, Nigeria. With over 17 years of academic and research experience, her work "
-  thumbnailUrl: person.svg
+  thumbnailUrl: sakinat_folorunso.jpg
 -
   id: olufemi
   name: "Victor"
@@ -355,7 +355,7 @@
   company: "LyngualLabs"
   title: "Co-founder & Chief Data Scientist"
   bio: ""
-  thumbnailUrl: person.svg
+  thumbnailUrl: Victor_olufemi.jpg
 -
   id: adenusi
   name: "Ceculia"
@@ -379,7 +379,7 @@
   company: "NITDA"
   title: "Technology expert, academic and ecosystem influencer"
   bio: ""
-  thumbnailUrl: person.svg
+  thumbnailUrl: Dr.AminaSambo-Magaji.jpg
 -
   id: nabende
   name: "Dr Joyce"
@@ -403,4 +403,4 @@
   company: "National Defence College, Nigeria."
   title: "Research Fellow (Tech & Innovation)"
   bio: ""
-  thumbnailUrl: person.svg  
+  thumbnailUrl: bridget.jpg
