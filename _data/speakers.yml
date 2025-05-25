@@ -21,7 +21,7 @@
 #Chair", url: "https://datascienceafrica.org"}
 -
   id: ciira
-  name: "Ciira"
+  name: "Prof. Ciira"
   surname: "Maina"
   company: "Dedan Kimathi University of Technology"
   title: "Senior Lecturer and Director, Center for Data Science and AI"
@@ -32,6 +32,14 @@
     - {name: "site", link: "http://ciirawamaina.com/"}
   ribbon:
     - {abbr: "DBM", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
+-
+  id: thiga
+  name: "Dr. Moses"
+  surname: "Thiga"
+  company: "Egerton University"
+  title: "ICT Director"
+  bio: ""
+  thumbnailUrl: MosesThiga.svg
 -
   id: adeleke
   name: "Dr."
@@ -324,5 +332,75 @@
   title: ""
   bio: ""
   thumbnailUrl: person.svg
-
-
+-
+  id: adesina
+  name: "Comfort"
+  surname: "Adesina"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg  
+-
+  id: folorunso
+  name: "Dr Sakinat"
+  surname: "Folorunso"
+  company: "Olabisi Onabanjo University, Nigeria"
+  title: "AI researcher, and senior faculty member"
+  bio: "Dr. Sakinat Folorunso is a computer scientist, AI researcher, and senior faculty member at Olabisi Onabanjo University, Nigeria. With over 17 years of academic and research experience, her work "
+  thumbnailUrl: person.svg
+-
+  id: olufemi
+  name: "Victor"
+  surname: "Olufemi"
+  company: "LyngualLabs"
+  title: "Co-founder & Chief Data Scientist"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: adenusi
+  name: "Ceculia"
+  surname: "Adenusi"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: adeoye
+  name: "AbdRasheed"
+  surname: "Adeoye"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg  
+-
+  id: sambo
+  name: "Dr. Amina"
+  surname: "Sambo-Magaji"
+  company: "NITDA"
+  title: "Technology expert, academic and ecosystem influencer"
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: nabende
+  name: "Dr Joyce"
+  surname: "Nabende"
+  company: "Makerere University"
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: morine
+  name: "Amutorine"
+  surname: "Morine"
+  company: "DataSphere Uganda"
+  title: ""
+  bio: ""
+  thumbnailUrl: person.svg
+-
+  id: ogbuagu
+  name: "Dr C. Bridget"
+  surname: "Ujah-Ogbuagu"
+  company: "National Defence College, Nigeria."
+  title: "Research Fellow (Tech & Innovation)"
+  bio: ""
+  thumbnailUrl: person.svg  
