@@ -33,14 +33,6 @@
   ribbon:
     - {abbr: "DBM", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
 -
-  id: thiga
-  name: "Dr. Moses"
-  surname: "Thiga"
-  company: "Egerton University"
-  title: "ICT Director"
-  bio: ""
-  thumbnailUrl: MosesThiga.svg
--
   id: adeleke
   name: "Dr."
   surname: "Adeleke O. Bankole"
@@ -216,6 +208,14 @@
   title: "Co-founder & Chief Data Scientist"
   bio: ""
   thumbnailUrl: Victor_olufemi.jpg
+-
+  id: thiga
+  name: "Dr. Moses"
+  surname: "Thiga"
+  company: "Egerton University"
+  title: "ICT Director"
+  bio: ""
+  thumbnailUrl: Dr.MosesThiga.jpg
 -
   id: olubayo 
   name: "Dr."
