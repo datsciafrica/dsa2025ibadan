@@ -162,6 +162,61 @@
   bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems.She leads a team of computational social scientists, public health experts and computer scientists at Boston University's Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri Institute for Computing. She was born and raised in Cameroon."
   thumbnailUrl: ElaineNsoesie.svg
 -
+  id: victor 
+  name: "Dr."
+  surname: "Victor Odumuyiwa"
+  title: ""
+  company: "University of Lagos"
+  thumbnailUrl: victor-odumuyiwa.jpg
+-
+  id: folorunso
+  name: "Dr Sakinat"
+  surname: "Folorunso"
+  company: "Olabisi Onabanjo University, Nigeria"
+  title: "AI researcher, and senior faculty member"
+  bio: "Dr. Sakinat Folorunso is a computer scientist, AI researcher, and senior faculty member at Olabisi Onabanjo University, Nigeria. With over 17 years of academic and research experience, her work "
+  thumbnailUrl: sakinat_folorunso.jpg
+-
+  id: sambo
+  name: "Dr. Amina"
+  surname: "Sambo-Magaji"
+  company: "NITDA"
+  title: "Technology expert, academic and ecosystem influencer"
+  bio: ""
+  thumbnailUrl: Dr.AminaSambo-Magaji.jpg
+-
+  id: ogbuagu
+  name: "Dr C. Bridget"
+  surname: "Ujah-Ogbuagu"
+  company: "National Defence College, Nigeria."
+  title: "Research Fellow (Tech & Innovation)"
+  bio: ""
+  thumbnailUrl: bridget.jpg
+-
+  id: tejumade
+  name: "Tejumade"
+  surname: "Afonja"
+  company: "CISPA Helmholtz Center for Information Security"
+  title: "Co-founder of AI Saturdays Lagos & Doctoral Researcher"
+  bio: "Tejumade Afonja is a passionate researcher and community leader committed to advancing ethical and inclusive AI. She is a doctoral researcher at the CISPA Helmholtz Center for Information Security and Saarland University, where her work focuses on privacy-preserving synthetic tabular data generation and evaluation. With an academic background that bridges Mechanical Engineering and Computer Science, Tejumade brings a multidisciplinary lens to solving complex challenges at the intersection of AI and data privacy. Beyond her research, Tejumade is a catalyst for grassroots AI education and empowerment. She is the co-founder of AI Saturdays Lagos, a volunteer-driven initiative that provides free, high-quality training in data science, machine learning, and deep learning to African youth—democratizing access to knowledge and opening doors to global opportunities."
+  thumbnailUrl: tejumade1.jpg
+-
+  id: oladeji
+  name: "Blessing"
+  surname: "Oladeji"
+  company: "Octave Analytics"
+  title: "CEO"
+  bio: ""
+  thumbnailUrl: blessing_oladeji.jpg
+-
+  id: olufemi
+  name: "Victor"
+  surname: "Olufemi"
+  company: "LyngualLabs"
+  title: "Co-founder & Chief Data Scientist"
+  bio: ""
+  thumbnailUrl: Victor_olufemi.jpg
+-
   id: olubayo 
   name: "Dr."
   surname: "Olubayo Adekanmbi"
@@ -191,13 +246,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/charlesity"}
 -
-  id: victor 
-  name: "Dr."
-  surname: "Victor Odumuyiwa"
-  title: ""
-  company: "University of Lagos"
-  thumbnailUrl: victor-odumuyiwa.jpg
--
   id: dina
   name: "Dr."
   surname: "Dina Machuve"
@@ -212,14 +260,6 @@
   title: "Director, Information & Communication Technology"
   bio: "Dr. Segun Adebayo is an Assistant Professor of Mechatronics Engineering at Bowen University, Nigeria, with a background in Electrical and Electronics Engineering. His research integrates signal processing, IoT, and machine learning to solve practical challenges in agriculture, health, and biodiversity. His work includes analyzing poultry vocalizations for health monitoring, developing AI models for malaria and heart disease diagnosis, and deploying UAVs for smart farming. Dr. Adebayo led a Data Science Africa-funded project using telemetry and data analytics to study bat migration, reflecting his commitment to responsible, data-driven science. He explores how systems learn and evolve—mirroring biological adaptation—to improve practice and community outcomes. A collaborative researcher and dedicated mentor, Dr. Adebayo has guided numerous students in impactful research. His work exemplifies how interdisciplinary innovation and ethical data use can drive sustainable development across Africa."
   thumbnailUrl: person.svg
--
-  id: tejumade
-  name: "Tejumade"
-  surname: "Afonja"
-  company: "CISPA Helmholtz Center for Information Security"
-  title: "Co-founder of AI Saturdays Lagos & Doctoral Researcher"
-  bio: "Tejumade Afonja is a passionate researcher and community leader committed to advancing ethical and inclusive AI. She is a doctoral researcher at the CISPA Helmholtz Center for Information Security and Saarland University, where her work focuses on privacy-preserving synthetic tabular data generation and evaluation. With an academic background that bridges Mechanical Engineering and Computer Science, Tejumade brings a multidisciplinary lens to solving complex challenges at the intersection of AI and data privacy. Beyond her research, Tejumade is a catalyst for grassroots AI education and empowerment. She is the co-founder of AI Saturdays Lagos, a volunteer-driven initiative that provides free, high-quality training in data science, machine learning, and deep learning to African youth—democratizing access to knowledge and opening doors to global opportunities."
-  thumbnailUrl: tejumade1.jpg
 -
   id: dang
   name: "John"
@@ -244,14 +284,6 @@
   title: "ABSA Chair of Data Science, Professor Department of Computer Science"
   bio: ""
   thumbnailUrl: person.svg
--
-  id: oladeji
-  name: "Blessing"
-  surname: "Oladeji"
-  company: "Octave Analytics"
-  title: "CEO"
-  bio: ""
-  thumbnailUrl: blessing_oladeji.jpg
 -
   id: r_adams
   name: "Rachel"
@@ -341,22 +373,6 @@
   bio: ""
   thumbnailUrl: person.svg  
 -
-  id: folorunso
-  name: "Dr Sakinat"
-  surname: "Folorunso"
-  company: "Olabisi Onabanjo University, Nigeria"
-  title: "AI researcher, and senior faculty member"
-  bio: "Dr. Sakinat Folorunso is a computer scientist, AI researcher, and senior faculty member at Olabisi Onabanjo University, Nigeria. With over 17 years of academic and research experience, her work "
-  thumbnailUrl: sakinat_folorunso.jpg
--
-  id: olufemi
-  name: "Victor"
-  surname: "Olufemi"
-  company: "LyngualLabs"
-  title: "Co-founder & Chief Data Scientist"
-  bio: ""
-  thumbnailUrl: Victor_olufemi.jpg
--
   id: adenusi
   name: "Ceculia"
   surname: "Adenusi"
@@ -373,14 +389,6 @@
   bio: ""
   thumbnailUrl: person.svg  
 -
-  id: sambo
-  name: "Dr. Amina"
-  surname: "Sambo-Magaji"
-  company: "NITDA"
-  title: "Technology expert, academic and ecosystem influencer"
-  bio: ""
-  thumbnailUrl: Dr.AminaSambo-Magaji.jpg
--
   id: nabende
   name: "Dr Joyce"
   surname: "Nabende"
@@ -396,11 +404,3 @@
   title: ""
   bio: ""
   thumbnailUrl: person.svg
--
-  id: ogbuagu
-  name: "Dr C. Bridget"
-  surname: "Ujah-Ogbuagu"
-  company: "National Defence College, Nigeria."
-  title: "Research Fellow (Tech & Innovation)"
-  bio: ""
-  thumbnailUrl: bridget.jpg
