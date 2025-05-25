@@ -13,16 +13,16 @@
   id: 0
   name: "Ahmed "
   surname: "Olanrewaju"
-  title: "General Chair"
-  company: "DSA 2025"
+  title: "General Chair, DSA 2025"
+  company: "University of Ibadan"
   thumbnailUrl: AhmedOlanrewaju.jpg
   team: true
 -
   id: 1
   name: "Lillian"
-  surname: "Wanzare"
+  surname: "Wanzare, DSA 2025"
   company: "DSA 2025"
-  title: "Program Chair"
+  title: "Maseno University"
   bio: ""
   thumbnailUrl: LilianWanzare.svg
   team: true
@@ -30,15 +30,15 @@
   id: 2
   name: "Nakasi"
   surname: "Rose"
-  title: "Program Chair"
-  company: "DSA 2025"
+  title: "Program Chair, DSA 2025"
+  company: "Makerere University"
   thumbnailUrl: nakasi_rose.jpg
   team: true
 -
   id: 3
   name: "Oluwatomisin"
   surname: "Dada "
-  title: "Program Chair"
-  company: "DSA 2025"
+  title: "Program Chair, DSA 2025"
+  company: "University of Cambridge"
   thumbnailUrl: person.svg
   team: true
