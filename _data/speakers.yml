@@ -169,14 +169,6 @@
   bio: "Dr. Sakinat Folorunso is a computer scientist, AI researcher, and senior faculty member at Olabisi Onabanjo University, Nigeria. With over 17 years of academic and research experience, her work "
   thumbnailUrl: sakinat_folorunso.jpg
 -
-  id: sambo
-  name: "Dr. Amina"
-  surname: "Sambo-Magaji"
-  company: "NITDA"
-  title: "Technology expert, academic and ecosystem influencer"
-  bio: ""
-  thumbnailUrl: Dr.AminaSambo-Magaji.jpg
--
   id: ogbuagu
   name: "Dr C. Bridget"
   surname: "Ujah-Ogbuagu"
@@ -277,38 +269,6 @@
   bio: ""
   thumbnailUrl: person.svg
 -
-  id: marivate
-  name: "Vukosi"
-  surname: "Marivate"
-  company: "University of Pretoria"
-  title: "ABSA Chair of Data Science, Professor Department of Computer Science"
-  bio: ""
-  thumbnailUrl: person.svg
--
-  id: r_adams
-  name: "Rachel"
-  surname: "Adams"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: person.svg
--
-  id: adeleke
-  name: "Fola"
-  surname: "Adeleke"
-  company: "Global Center on AI Governance"
-  title: ""
-  bio: ""
-  thumbnailUrl: person.svg
--
-  id: koyejo
-  name: "Sanmi"
-  surname: "Koyejo"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: person.svg  
--
   id: ajala
   name: "Dr Bunmi"
   surname: "Ajala"
@@ -316,14 +276,6 @@
   title: ""
   bio: ""
   thumbnailUrl: person.svg  
--
-  id: gaye
-  name: "Dr Bamba"
-  surname: "Gaye"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: person.svg
 -
   id: osofisan
   name: "Prof. Adenike"
