@@ -100,6 +100,35 @@
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
+  id: 0
+  name: "Ahmed "
+  surname: "Olanrewaju"
+  title: "General Chair, DSA 2025"
+  company: "University of Ibadan"
+  thumbnailUrl: AhmedOlanrewaju.jpg
+-
+  id: 1
+  name: "Lillian"
+  surname: "Wanzare, DSA 2025"
+  company: "DSA 2025"
+  title: "Maseno University"
+  bio: ""
+  thumbnailUrl: LilianWanzare.svg
+-
+  id: 2
+  name: "Nakasi"
+  surname: "Rose"
+  title: "Program Chair, DSA 2025"
+  company: "Makerere University"
+  thumbnailUrl: nakasi_rose.jpg
+-
+  id: 3
+  name: "Oluwatomisin"
+  surname: "Dada "
+  title: "Program Chair, DSA 2025"
+  company: "University of Cambridge"
+  thumbnailUrl: person.svg
+-
   id: adeleke
   name: "Dr."
   surname: "Adeleke O. Bankole"
