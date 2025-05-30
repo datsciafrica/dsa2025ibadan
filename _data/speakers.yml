@@ -209,6 +209,37 @@
   bio: ""
   thumbnailUrl: Dr.MosesThiga.jpg
 -
+  id: nabende
+  name: "Dr Joyce"
+  surname: "Nabende"
+  company: "Makerere University"
+  title: ""
+  bio: ""
+  thumbnailUrl: NabendeJoyce.svg
+-
+  id: morine
+  name: "Amutorine"
+  surname: "Morine"
+  company: "DataSphere Uganda"
+  title: ""
+  bio: ""
+  thumbnailUrl: morine.svg
+-
+  id: dina
+  name: "Dr."
+  surname: "Dina Machuve"
+  title: "Co-Founder and CTO"
+  company: "DevData Analytics"
+  thumbnailUrl: dina.svg
+-
+  id: gekov
+  name: "George"
+  surname: "Gekov"
+  company: "ARM"
+  title: ""
+  bio: ""
+  thumbnailUrl: neil.svg
+-
   id: olubayo 
   name: "Dr."
   surname: "Olubayo Adekanmbi"
@@ -237,13 +268,6 @@
   thumbnailUrl: person.svg
   social:
     - {name: "twitter", link: "https://twitter.com/charlesity"}
--
-  id: dina
-  name: "Dr."
-  surname: "Dina Machuve"
-  title: "Co-Founder and CTO"
-  company: "DevData Analytics"
-  thumbnailUrl: person.svg
 -
   id: segun
   name: "Dr."
@@ -293,14 +317,6 @@
   bio: ""
   thumbnailUrl: person.svg  
 -
-  id: gekov
-  name: "George"
-  surname: "Gekov"
-  company: "ARM"
-  title: ""
-  bio: ""
-  thumbnailUrl: person.svg
--
   id: ajibade
   name: "AbdulQudus Ajibade"
   surname: "Ajibade"
@@ -340,19 +356,4 @@
   title: ""
   bio: ""
   thumbnailUrl: person.svg  
--
-  id: nabende
-  name: "Dr Joyce"
-  surname: "Nabende"
-  company: "Makerere University"
-  title: ""
-  bio: ""
-  thumbnailUrl: person.svg
--
-  id: morine
-  name: "Amutorine"
-  surname: "Morine"
-  company: "DataSphere Uganda"
-  title: ""
-  bio: ""
-  thumbnailUrl: person.svg
+
