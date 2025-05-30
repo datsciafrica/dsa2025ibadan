@@ -122,6 +122,13 @@
   company: "Makerere University"
   thumbnailUrl: nakasi_rose.jpg
 -
+  id: adeola
+  name: "Adeola"
+  surname: "Zainab Lawal"
+  title: "Program Chair, DSA 2025"
+  company: "Women in AI, Nigeria"
+  thumbnailUrl: azainab.jpg
+-
   id: uwatomisin
   name: "Oluwatomisin"
   surname: "Dada "
