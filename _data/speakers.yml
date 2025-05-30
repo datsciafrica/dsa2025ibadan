@@ -232,13 +232,21 @@
   company: "DevData Analytics"
   thumbnailUrl: dina.svg
 -
+  id: lawrence
+  name: "Neil"
+  surname: "Lawrence"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: neil.svg 
+-
   id: gekov
   name: "George"
   surname: "Gekov"
   company: "ARM"
   title: ""
   bio: ""
-  thumbnailUrl: neil.svg
+  thumbnailUrl: person.svg
 -
   id: olubayo 
   name: "Dr."
@@ -307,15 +315,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: person.svg
--
-  id: lawrence
-  name: "Neil"
-  surname: "Lawrence"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: person.svg  
+  thumbnailUrl: person.svg 
 -
   id: ajibade
   name: "AbdulQudus Ajibade"
