@@ -147,7 +147,7 @@
   thumbnailUrl: earnest.svg
 -
   id: elaine
-  name: "Elaine"
+  name: "Prof. Elaine"
   surname: "Nsoesie"
   company: "Boston University"
   title: "Assistant Professor"
@@ -233,7 +233,7 @@
   thumbnailUrl: dina.svg
 -
   id: lawrence
-  name: "Neil"
+  name: "Prof. Neil"
   surname: "Lawrence"
   company: ""
   title: ""
