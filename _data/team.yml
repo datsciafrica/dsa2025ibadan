@@ -36,6 +36,14 @@
   team: true
 -
   id: 3
+  name: "Adeola"
+  surname: "Zainab Lawal"
+  title: "Program Chair, DSA 2025"
+  company: "University of Cambridge"
+  thumbnailUrl: person.svg
+  team: true
+-
+  id: 4
   name: "Oluwatomisin"
   surname: "Dada "
   title: "Program Chair, DSA 2025"
